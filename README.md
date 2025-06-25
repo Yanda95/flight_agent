@@ -56,6 +56,7 @@ Note:
 You need to provide your own OpenAI API Key in the code.
 In flight_agent.py, you will see the following line:
 
+```
 my_api_key = ""
 
 llm = ChatOpenAI(
@@ -63,7 +64,7 @@ llm = ChatOpenAI(
     temperature=0,
     openai_api_key=my_api_key
 )
-
+```
 For security reasons, my_api_key is left empty in the code — you need to set your own key before running the agent.
 
 
