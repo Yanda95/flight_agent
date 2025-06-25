@@ -75,6 +75,6 @@ For security reasons, my_api_key is left empty in the code — you need to set y
 
 ### 🎬 Multi-turn Update
 
-![Search within a date range](data_range.jpg)
+![Search within a date range](date_range.jpg)
 
 
