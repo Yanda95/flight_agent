@@ -67,4 +67,14 @@ llm = ChatOpenAI(
 ```
 For security reasons, my_api_key is left empty in the code — you need to set your own key before running the agent.
 
+## 🚀 Screenshots
+
+### 🎬 Example Dialog
+
+![Multi-turn dialogue: Change flight plans based on user needs](multi-turn.jpg)
+
+### 🎬 Multi-turn Update
+
+![Search within a date range](data_range.jpg)
+
 
