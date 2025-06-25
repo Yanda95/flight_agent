@@ -71,10 +71,10 @@ For security reasons, my_api_key is left empty in the code — you need to set y
 
 ### Multi-turn Dialogue: Change flight plans based on user needs
 
-<img src="multi-turn.png" width="600">
+<img src="multi-turn.jpg" width="600">
 
 ### Search within a date range
 
-<img src="date_range.png" width="600">
+<img src="date_range.jpg" width="600">
 
 
