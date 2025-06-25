@@ -14,6 +14,7 @@ Run the data generation script first:
 
 ```bash
 python data_generation.py
+```
 
 This will create flights.jsonl — a fake dataset containing random flights with:
 
@@ -22,7 +23,6 @@ This will create flights.jsonl — a fake dataset containing random flights with
 3.flight_number
 4.date
 5.price
-
 
 ---
 
@@ -50,6 +50,7 @@ Run the agent program:
 
 ```bash
 python flight_agent.py
+```
 
 Note:
 You need to provide your own OpenAI API Key in the code.
