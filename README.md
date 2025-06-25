@@ -8,7 +8,7 @@ It supports:
 ✅ fuzzy date parsing (single date or range)  
 ✅ user confirmation before booking
 
-## 🧩 Implementation Flow
+## Implementation Flow
 
 1️⃣ **Data preparation**  
 → Run `data_generation.py` → generate `flights.jsonl` with random flight data (origin, destination, flight_number, date, price)
