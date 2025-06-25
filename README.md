@@ -8,6 +8,45 @@ It supports:
 ✅ fuzzy date parsing (single date or range)  
 ✅ user confirmation before booking
 
+## 🧩 Implementation Flow
+
+1️⃣ **Data preparation**  
+→ Run `data_generation.py` → generate `flights.jsonl` with random flight data (origin, destination, flight_number, date, price)
+
+2️⃣ **Start agent**  
+→ Run `flight_agent.py`
+
+3️⃣ **User input**  
+→ User types request in terminal (e.g. "I want to fly from Paris to Tokyo next week")
+
+4️⃣ **Intent extraction**  
+→ LLM parses:
+    - `origin`
+    - `destination`
+    - `date_start`
+    - `date_end`
+
+5️⃣ **Memory merge**  
+→ If user only gives partial update (e.g. "change date to next month"), previous slots are filled from memory
+
+6️⃣ **Flight search**  
+→ Search `flights.jsonl` using Pandas with filters:
+    - origin
+    - destination
+    - date range (date_start to date_end)
+
+7️⃣ **Present result**  
+→ Show cheapest matching flight to user
+
+8️⃣ **User confirmation**  
+→ Wait for "yes" / "no" / "change"
+
+9️⃣ **Booking**  
+→ On "yes" → confirm booking → exit
+  else return to step 3
+
+---
+
 ## Data Generation
 
 Run the data generation script first:
