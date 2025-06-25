@@ -1,0 +1,1000 @@
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-30", "price": 1229, "status": "available", "flight_number": "CC428"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-30", "price": 529, "status": "available", "flight_number": "BB196"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-28", "price": 568, "status": "available", "flight_number": "EE937"}
+{"origin": "Dubai", "destination": "Los Angeles", "date": "2025-06-28", "price": 488, "status": "available", "flight_number": "DD426"}
+{"origin": "Berlin", "destination": "Tokyo", "date": "2025-06-28", "price": 943, "status": "available", "flight_number": "DD780"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-28", "price": 1459, "status": "available", "flight_number": "DD733"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-30", "price": 300, "status": "available", "flight_number": "EE799"}
+{"origin": "Shanghai", "destination": "Toronto", "date": "2025-06-28", "price": 1122, "status": "available", "flight_number": "CC304"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-28", "price": 695, "status": "available", "flight_number": "EE147"}
+{"origin": "Sydney", "destination": "Shanghai", "date": "2025-06-28", "price": 1299, "status": "available", "flight_number": "BB934"}
+{"origin": "Toronto", "destination": "Tokyo", "date": "2025-06-30", "price": 1127, "status": "available", "flight_number": "EE577"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-29", "price": 893, "status": "available", "flight_number": "DD319"}
+{"origin": "Berlin", "destination": "Shanghai", "date": "2025-06-27", "price": 183, "status": "available", "flight_number": "EE299"}
+{"origin": "Sydney", "destination": "Los Angeles", "date": "2025-06-29", "price": 1013, "status": "available", "flight_number": "EE271"}
+{"origin": "Toronto", "destination": "Tokyo", "date": "2025-06-30", "price": 336, "status": "available", "flight_number": "EE117"}
+{"origin": "Singapore", "destination": "Paris", "date": "2025-06-30", "price": 980, "status": "available", "flight_number": "DD149"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-28", "price": 304, "status": "available", "flight_number": "AA863"}
+{"origin": "Berlin", "destination": "Tokyo", "date": "2025-06-27", "price": 409, "status": "available", "flight_number": "AA221"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-30", "price": 569, "status": "available", "flight_number": "BB155"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-29", "price": 854, "status": "available", "flight_number": "BB808"}
+{"origin": "Paris", "destination": "Shanghai", "date": "2025-06-29", "price": 548, "status": "available", "flight_number": "CC938"}
+{"origin": "Paris", "destination": "Sydney", "date": "2025-06-30", "price": 1088, "status": "available", "flight_number": "DD455"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-27", "price": 1040, "status": "available", "flight_number": "CC537"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-29", "price": 988, "status": "available", "flight_number": "CC819"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-27", "price": 836, "status": "available", "flight_number": "BB527"}
+{"origin": "Toronto", "destination": "New York", "date": "2025-06-27", "price": 1406, "status": "available", "flight_number": "CC846"}
+{"origin": "Shanghai", "destination": "Dubai", "date": "2025-06-30", "price": 287, "status": "available", "flight_number": "DD954"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-29", "price": 802, "status": "available", "flight_number": "BB615"}
+{"origin": "Singapore", "destination": "London", "date": "2025-06-29", "price": 883, "status": "available", "flight_number": "BB807"}
+{"origin": "Shanghai", "destination": "Hong Kong", "date": "2025-06-30", "price": 572, "status": "available", "flight_number": "CC372"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-27", "price": 207, "status": "available", "flight_number": "CC833"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-30", "price": 1458, "status": "available", "flight_number": "CC979"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-27", "price": 396, "status": "available", "flight_number": "EE754"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-26", "price": 234, "status": "available", "flight_number": "DD141"}
+{"origin": "Singapore", "destination": "New York", "date": "2025-06-28", "price": 740, "status": "available", "flight_number": "EE786"}
+{"origin": "Singapore", "destination": "Berlin", "date": "2025-06-27", "price": 705, "status": "available", "flight_number": "DD550"}
+{"origin": "Toronto", "destination": "Shanghai", "date": "2025-06-28", "price": 1089, "status": "available", "flight_number": "DD406"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-30", "price": 801, "status": "available", "flight_number": "EE234"}
+{"origin": "Toronto", "destination": "Tokyo", "date": "2025-06-28", "price": 297, "status": "available", "flight_number": "BB442"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-29", "price": 232, "status": "available", "flight_number": "EE397"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-29", "price": 638, "status": "available", "flight_number": "DD562"}
+{"origin": "Berlin", "destination": "Paris", "date": "2025-06-30", "price": 290, "status": "available", "flight_number": "EE725"}
+{"origin": "Sydney", "destination": "Berlin", "date": "2025-06-27", "price": 919, "status": "available", "flight_number": "DD843"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-29", "price": 359, "status": "available", "flight_number": "AA100"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-28", "price": 1310, "status": "available", "flight_number": "EE903"}
+{"origin": "London", "destination": "Paris", "date": "2025-06-29", "price": 1131, "status": "available", "flight_number": "BB919"}
+{"origin": "New York", "destination": "London", "date": "2025-06-28", "price": 775, "status": "available", "flight_number": "AA497"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-29", "price": 704, "status": "available", "flight_number": "AA370"}
+{"origin": "Singapore", "destination": "Sydney", "date": "2025-06-29", "price": 996, "status": "available", "flight_number": "DD223"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-26", "price": 566, "status": "available", "flight_number": "CC660"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-26", "price": 146, "status": "available", "flight_number": "CC247"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-26", "price": 368, "status": "available", "flight_number": "AA833"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-29", "price": 195, "status": "available", "flight_number": "BB420"}
+{"origin": "Hong Kong", "destination": "Paris", "date": "2025-06-27", "price": 1260, "status": "available", "flight_number": "AA106"}
+{"origin": "Paris", "destination": "Dubai", "date": "2025-06-29", "price": 1136, "status": "available", "flight_number": "DD302"}
+{"origin": "London", "destination": "Toronto", "date": "2025-06-30", "price": 1160, "status": "available", "flight_number": "EE590"}
+{"origin": "Paris", "destination": "Hong Kong", "date": "2025-06-28", "price": 797, "status": "available", "flight_number": "BB499"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-27", "price": 1242, "status": "available", "flight_number": "DD435"}
+{"origin": "Berlin", "destination": "Shanghai", "date": "2025-06-28", "price": 978, "status": "available", "flight_number": "BB356"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-28", "price": 1278, "status": "available", "flight_number": "AA130"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-30", "price": 1299, "status": "available", "flight_number": "CC239"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-29", "price": 925, "status": "available", "flight_number": "AA171"}
+{"origin": "New York", "destination": "Singapore", "date": "2025-06-27", "price": 1311, "status": "available", "flight_number": "CC740"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-26", "price": 1059, "status": "available", "flight_number": "AA216"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-29", "price": 1225, "status": "available", "flight_number": "DD724"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-28", "price": 821, "status": "available", "flight_number": "BB783"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-27", "price": 1471, "status": "available", "flight_number": "AA309"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-30", "price": 921, "status": "available", "flight_number": "CC731"}
+{"origin": "Sydney", "destination": "Singapore", "date": "2025-06-26", "price": 1084, "status": "available", "flight_number": "CC319"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-26", "price": 1428, "status": "available", "flight_number": "AA752"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-26", "price": 1156, "status": "available", "flight_number": "CC259"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-27", "price": 377, "status": "available", "flight_number": "BB808"}
+{"origin": "Los Angeles", "destination": "Shanghai", "date": "2025-06-30", "price": 1409, "status": "available", "flight_number": "BB245"}
+{"origin": "Sydney", "destination": "Hong Kong", "date": "2025-06-29", "price": 225, "status": "available", "flight_number": "AA645"}
+{"origin": "Toronto", "destination": "London", "date": "2025-06-28", "price": 1377, "status": "available", "flight_number": "DD869"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-27", "price": 828, "status": "available", "flight_number": "AA992"}
+{"origin": "Sydney", "destination": "Singapore", "date": "2025-06-29", "price": 741, "status": "available", "flight_number": "AA321"}
+{"origin": "New York", "destination": "Los Angeles", "date": "2025-06-29", "price": 399, "status": "available", "flight_number": "BB337"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-30", "price": 701, "status": "available", "flight_number": "BB213"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-30", "price": 532, "status": "available", "flight_number": "EE789"}
+{"origin": "Paris", "destination": "London", "date": "2025-06-26", "price": 1262, "status": "available", "flight_number": "DD800"}
+{"origin": "Shanghai", "destination": "Singapore", "date": "2025-06-26", "price": 734, "status": "available", "flight_number": "EE967"}
+{"origin": "London", "destination": "New York", "date": "2025-06-28", "price": 1104, "status": "available", "flight_number": "AA392"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-29", "price": 648, "status": "available", "flight_number": "CC408"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-28", "price": 463, "status": "available", "flight_number": "DD805"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-28", "price": 225, "status": "available", "flight_number": "EE778"}
+{"origin": "Los Angeles", "destination": "Paris", "date": "2025-06-26", "price": 1233, "status": "available", "flight_number": "BB398"}
+{"origin": "London", "destination": "Tokyo", "date": "2025-06-28", "price": 218, "status": "available", "flight_number": "CC600"}
+{"origin": "Paris", "destination": "Shanghai", "date": "2025-06-26", "price": 1008, "status": "available", "flight_number": "EE698"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-30", "price": 1421, "status": "available", "flight_number": "DD905"}
+{"origin": "Toronto", "destination": "Dubai", "date": "2025-06-29", "price": 1062, "status": "available", "flight_number": "EE856"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-29", "price": 1334, "status": "available", "flight_number": "CC103"}
+{"origin": "Sydney", "destination": "Toronto", "date": "2025-06-29", "price": 1331, "status": "available", "flight_number": "AA585"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-29", "price": 639, "status": "available", "flight_number": "AA226"}
+{"origin": "Paris", "destination": "New York", "date": "2025-06-29", "price": 425, "status": "available", "flight_number": "BB793"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-29", "price": 215, "status": "available", "flight_number": "CC529"}
+{"origin": "Toronto", "destination": "Tokyo", "date": "2025-06-30", "price": 546, "status": "available", "flight_number": "DD412"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-27", "price": 870, "status": "available", "flight_number": "BB630"}
+{"origin": "Sydney", "destination": "Berlin", "date": "2025-06-26", "price": 602, "status": "available", "flight_number": "BB639"}
+{"origin": "Paris", "destination": "New York", "date": "2025-06-27", "price": 1500, "status": "available", "flight_number": "BB285"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-30", "price": 1078, "status": "available", "flight_number": "CC199"}
+{"origin": "Tokyo", "destination": "New York", "date": "2025-06-28", "price": 669, "status": "available", "flight_number": "AA912"}
+{"origin": "Shanghai", "destination": "Sydney", "date": "2025-06-29", "price": 606, "status": "available", "flight_number": "AA659"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-28", "price": 1138, "status": "available", "flight_number": "EE223"}
+{"origin": "New York", "destination": "Singapore", "date": "2025-06-30", "price": 946, "status": "available", "flight_number": "BB189"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-29", "price": 1306, "status": "available", "flight_number": "BB946"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-27", "price": 974, "status": "available", "flight_number": "CC594"}
+{"origin": "Shanghai", "destination": "Paris", "date": "2025-06-26", "price": 1215, "status": "available", "flight_number": "CC179"}
+{"origin": "Hong Kong", "destination": "London", "date": "2025-06-30", "price": 1100, "status": "available", "flight_number": "AA662"}
+{"origin": "New York", "destination": "Shanghai", "date": "2025-06-29", "price": 305, "status": "available", "flight_number": "BB818"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-26", "price": 144, "status": "available", "flight_number": "CC657"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-27", "price": 1309, "status": "available", "flight_number": "DD275"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-29", "price": 1018, "status": "available", "flight_number": "AA843"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-28", "price": 1125, "status": "available", "flight_number": "EE196"}
+{"origin": "Los Angeles", "destination": "Toronto", "date": "2025-06-26", "price": 988, "status": "available", "flight_number": "CC800"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-29", "price": 287, "status": "available", "flight_number": "CC828"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-30", "price": 602, "status": "available", "flight_number": "DD568"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-26", "price": 843, "status": "available", "flight_number": "EE107"}
+{"origin": "Paris", "destination": "New York", "date": "2025-06-28", "price": 851, "status": "available", "flight_number": "EE342"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-26", "price": 373, "status": "available", "flight_number": "DD272"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-28", "price": 1424, "status": "available", "flight_number": "DD872"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-27", "price": 1096, "status": "available", "flight_number": "DD762"}
+{"origin": "Paris", "destination": "London", "date": "2025-06-27", "price": 1386, "status": "available", "flight_number": "BB747"}
+{"origin": "Toronto", "destination": "Shanghai", "date": "2025-06-27", "price": 463, "status": "available", "flight_number": "CC417"}
+{"origin": "Dubai", "destination": "Shanghai", "date": "2025-06-26", "price": 394, "status": "available", "flight_number": "DD555"}
+{"origin": "Singapore", "destination": "New York", "date": "2025-06-28", "price": 946, "status": "available", "flight_number": "BB888"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-29", "price": 1473, "status": "available", "flight_number": "DD126"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-26", "price": 1168, "status": "available", "flight_number": "AA241"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-29", "price": 1463, "status": "available", "flight_number": "DD401"}
+{"origin": "London", "destination": "Paris", "date": "2025-06-26", "price": 205, "status": "available", "flight_number": "BB996"}
+{"origin": "Hong Kong", "destination": "Tokyo", "date": "2025-06-27", "price": 1001, "status": "available", "flight_number": "BB256"}
+{"origin": "London", "destination": "Paris", "date": "2025-06-30", "price": 874, "status": "available", "flight_number": "AA478"}
+{"origin": "Sydney", "destination": "London", "date": "2025-06-26", "price": 327, "status": "available", "flight_number": "BB807"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-26", "price": 978, "status": "available", "flight_number": "BB676"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-29", "price": 465, "status": "available", "flight_number": "BB926"}
+{"origin": "Shanghai", "destination": "Tokyo", "date": "2025-06-28", "price": 909, "status": "available", "flight_number": "AA476"}
+{"origin": "Toronto", "destination": "Paris", "date": "2025-06-27", "price": 1321, "status": "available", "flight_number": "EE278"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-29", "price": 406, "status": "available", "flight_number": "DD935"}
+{"origin": "Paris", "destination": "Berlin", "date": "2025-06-26", "price": 792, "status": "available", "flight_number": "AA109"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-27", "price": 495, "status": "available", "flight_number": "BB968"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-26", "price": 1130, "status": "available", "flight_number": "CC826"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-26", "price": 1243, "status": "available", "flight_number": "EE244"}
+{"origin": "Los Angeles", "destination": "New York", "date": "2025-06-29", "price": 675, "status": "available", "flight_number": "BB100"}
+{"origin": "Hong Kong", "destination": "New York", "date": "2025-06-27", "price": 532, "status": "available", "flight_number": "EE376"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-28", "price": 414, "status": "available", "flight_number": "CC531"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-28", "price": 1181, "status": "available", "flight_number": "DD935"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-27", "price": 1004, "status": "available", "flight_number": "CC218"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-29", "price": 259, "status": "available", "flight_number": "EE890"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-30", "price": 1470, "status": "available", "flight_number": "BB377"}
+{"origin": "New York", "destination": "Singapore", "date": "2025-06-26", "price": 371, "status": "available", "flight_number": "EE384"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-29", "price": 724, "status": "available", "flight_number": "BB588"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-26", "price": 613, "status": "available", "flight_number": "CC481"}
+{"origin": "Los Angeles", "destination": "Sydney", "date": "2025-06-28", "price": 994, "status": "available", "flight_number": "CC170"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-26", "price": 1354, "status": "available", "flight_number": "CC822"}
+{"origin": "Shanghai", "destination": "Sydney", "date": "2025-06-27", "price": 928, "status": "available", "flight_number": "CC514"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-26", "price": 625, "status": "available", "flight_number": "AA660"}
+{"origin": "Paris", "destination": "Dubai", "date": "2025-06-27", "price": 1355, "status": "available", "flight_number": "AA785"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-27", "price": 1235, "status": "available", "flight_number": "DD548"}
+{"origin": "Los Angeles", "destination": "Shanghai", "date": "2025-06-28", "price": 250, "status": "available", "flight_number": "BB588"}
+{"origin": "Los Angeles", "destination": "Singapore", "date": "2025-06-27", "price": 199, "status": "available", "flight_number": "CC729"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-30", "price": 1124, "status": "available", "flight_number": "DD610"}
+{"origin": "Singapore", "destination": "Hong Kong", "date": "2025-06-28", "price": 161, "status": "available", "flight_number": "EE231"}
+{"origin": "Hong Kong", "destination": "Tokyo", "date": "2025-06-30", "price": 853, "status": "available", "flight_number": "BB728"}
+{"origin": "Berlin", "destination": "Paris", "date": "2025-06-30", "price": 524, "status": "available", "flight_number": "AA597"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-30", "price": 754, "status": "available", "flight_number": "CC822"}
+{"origin": "Singapore", "destination": "London", "date": "2025-06-29", "price": 1093, "status": "available", "flight_number": "CC842"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-30", "price": 655, "status": "available", "flight_number": "AA352"}
+{"origin": "Berlin", "destination": "Shanghai", "date": "2025-06-28", "price": 640, "status": "available", "flight_number": "EE324"}
+{"origin": "Sydney", "destination": "Tokyo", "date": "2025-06-29", "price": 1374, "status": "available", "flight_number": "CC687"}
+{"origin": "Singapore", "destination": "Berlin", "date": "2025-06-26", "price": 798, "status": "available", "flight_number": "BB368"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-28", "price": 1400, "status": "available", "flight_number": "AA626"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-29", "price": 1154, "status": "available", "flight_number": "DD298"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-30", "price": 463, "status": "available", "flight_number": "EE803"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-27", "price": 365, "status": "available", "flight_number": "AA811"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-29", "price": 1089, "status": "available", "flight_number": "DD326"}
+{"origin": "Berlin", "destination": "Shanghai", "date": "2025-06-28", "price": 497, "status": "available", "flight_number": "AA366"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-27", "price": 711, "status": "available", "flight_number": "EE459"}
+{"origin": "London", "destination": "Paris", "date": "2025-06-28", "price": 1091, "status": "available", "flight_number": "BB950"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-30", "price": 1092, "status": "available", "flight_number": "DD450"}
+{"origin": "Sydney", "destination": "Paris", "date": "2025-06-29", "price": 196, "status": "available", "flight_number": "BB874"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-30", "price": 409, "status": "available", "flight_number": "DD943"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-29", "price": 1488, "status": "available", "flight_number": "CC435"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-26", "price": 641, "status": "available", "flight_number": "EE772"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-30", "price": 387, "status": "available", "flight_number": "CC125"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-27", "price": 753, "status": "available", "flight_number": "EE810"}
+{"origin": "Sydney", "destination": "New York", "date": "2025-06-27", "price": 248, "status": "available", "flight_number": "AA518"}
+{"origin": "Hong Kong", "destination": "Tokyo", "date": "2025-06-30", "price": 292, "status": "available", "flight_number": "BB135"}
+{"origin": "Hong Kong", "destination": "Tokyo", "date": "2025-06-29", "price": 386, "status": "available", "flight_number": "EE273"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-26", "price": 1089, "status": "available", "flight_number": "CC611"}
+{"origin": "Sydney", "destination": "Berlin", "date": "2025-06-28", "price": 905, "status": "available", "flight_number": "CC655"}
+{"origin": "Sydney", "destination": "Shanghai", "date": "2025-06-30", "price": 801, "status": "available", "flight_number": "DD484"}
+{"origin": "Dubai", "destination": "Shanghai", "date": "2025-06-27", "price": 399, "status": "available", "flight_number": "AA312"}
+{"origin": "Shanghai", "destination": "New York", "date": "2025-06-28", "price": 702, "status": "available", "flight_number": "AA709"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-28", "price": 1120, "status": "available", "flight_number": "DD227"}
+{"origin": "Hong Kong", "destination": "London", "date": "2025-06-29", "price": 1044, "status": "available", "flight_number": "AA721"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-26", "price": 997, "status": "available", "flight_number": "CC177"}
+{"origin": "Tokyo", "destination": "Shanghai", "date": "2025-06-30", "price": 650, "status": "available", "flight_number": "AA353"}
+{"origin": "Hong Kong", "destination": "Sydney", "date": "2025-06-29", "price": 1432, "status": "available", "flight_number": "CC918"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-28", "price": 1470, "status": "available", "flight_number": "AA687"}
+{"origin": "Hong Kong", "destination": "New York", "date": "2025-06-30", "price": 812, "status": "available", "flight_number": "CC810"}
+{"origin": "Los Angeles", "destination": "Sydney", "date": "2025-06-28", "price": 913, "status": "available", "flight_number": "EE675"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-27", "price": 646, "status": "available", "flight_number": "AA269"}
+{"origin": "Los Angeles", "destination": "Toronto", "date": "2025-06-30", "price": 364, "status": "available", "flight_number": "EE206"}
+{"origin": "Toronto", "destination": "London", "date": "2025-06-27", "price": 1309, "status": "available", "flight_number": "EE210"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-29", "price": 1029, "status": "available", "flight_number": "BB338"}
+{"origin": "Sydney", "destination": "Tokyo", "date": "2025-06-30", "price": 845, "status": "available", "flight_number": "EE766"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-27", "price": 129, "status": "available", "flight_number": "CC589"}
+{"origin": "London", "destination": "New York", "date": "2025-06-29", "price": 1247, "status": "available", "flight_number": "DD704"}
+{"origin": "Toronto", "destination": "London", "date": "2025-06-26", "price": 745, "status": "available", "flight_number": "CC747"}
+{"origin": "Sydney", "destination": "Los Angeles", "date": "2025-06-28", "price": 638, "status": "available", "flight_number": "EE768"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-27", "price": 594, "status": "available", "flight_number": "CC870"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-30", "price": 1037, "status": "available", "flight_number": "BB173"}
+{"origin": "Dubai", "destination": "Shanghai", "date": "2025-06-29", "price": 899, "status": "available", "flight_number": "CC645"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-30", "price": 1075, "status": "available", "flight_number": "CC778"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-29", "price": 424, "status": "available", "flight_number": "BB552"}
+{"origin": "Los Angeles", "destination": "Tokyo", "date": "2025-06-27", "price": 370, "status": "available", "flight_number": "DD736"}
+{"origin": "Hong Kong", "destination": "New York", "date": "2025-06-28", "price": 819, "status": "available", "flight_number": "EE569"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-30", "price": 265, "status": "available", "flight_number": "AA950"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-30", "price": 317, "status": "available", "flight_number": "BB430"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-26", "price": 932, "status": "available", "flight_number": "BB377"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-29", "price": 423, "status": "available", "flight_number": "AA925"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-30", "price": 439, "status": "available", "flight_number": "DD167"}
+{"origin": "Los Angeles", "destination": "Sydney", "date": "2025-06-26", "price": 945, "status": "available", "flight_number": "DD850"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-30", "price": 725, "status": "available", "flight_number": "EE292"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-27", "price": 354, "status": "available", "flight_number": "DD551"}
+{"origin": "Shanghai", "destination": "New York", "date": "2025-06-27", "price": 1056, "status": "available", "flight_number": "DD962"}
+{"origin": "Paris", "destination": "Tokyo", "date": "2025-06-29", "price": 735, "status": "available", "flight_number": "AA428"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-30", "price": 1181, "status": "available", "flight_number": "EE186"}
+{"origin": "New York", "destination": "London", "date": "2025-06-29", "price": 1438, "status": "available", "flight_number": "EE950"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-26", "price": 889, "status": "available", "flight_number": "BB126"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-27", "price": 887, "status": "available", "flight_number": "CC167"}
+{"origin": "Berlin", "destination": "Hong Kong", "date": "2025-06-29", "price": 746, "status": "available", "flight_number": "AA774"}
+{"origin": "Dubai", "destination": "Los Angeles", "date": "2025-06-30", "price": 425, "status": "available", "flight_number": "EE896"}
+{"origin": "Berlin", "destination": "Los Angeles", "date": "2025-06-28", "price": 1326, "status": "available", "flight_number": "CC491"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-29", "price": 1239, "status": "available", "flight_number": "BB451"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-29", "price": 582, "status": "available", "flight_number": "BB348"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-30", "price": 1477, "status": "available", "flight_number": "CC175"}
+{"origin": "Shanghai", "destination": "London", "date": "2025-06-30", "price": 509, "status": "available", "flight_number": "DD730"}
+{"origin": "Singapore", "destination": "Hong Kong", "date": "2025-06-26", "price": 941, "status": "available", "flight_number": "AA316"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-28", "price": 961, "status": "available", "flight_number": "DD774"}
+{"origin": "Hong Kong", "destination": "Sydney", "date": "2025-06-26", "price": 1282, "status": "available", "flight_number": "BB266"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-30", "price": 1440, "status": "available", "flight_number": "CC507"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-27", "price": 910, "status": "available", "flight_number": "AA874"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-26", "price": 1078, "status": "available", "flight_number": "CC918"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-27", "price": 1159, "status": "available", "flight_number": "DD378"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-27", "price": 1068, "status": "available", "flight_number": "CC529"}
+{"origin": "Sydney", "destination": "Paris", "date": "2025-06-30", "price": 555, "status": "available", "flight_number": "DD518"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-29", "price": 729, "status": "available", "flight_number": "CC608"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-29", "price": 423, "status": "available", "flight_number": "AA329"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-30", "price": 714, "status": "available", "flight_number": "DD301"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-28", "price": 764, "status": "available", "flight_number": "EE530"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-26", "price": 594, "status": "available", "flight_number": "CC973"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-27", "price": 1316, "status": "available", "flight_number": "CC179"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-26", "price": 1160, "status": "available", "flight_number": "CC193"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-26", "price": 1277, "status": "available", "flight_number": "BB108"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-30", "price": 651, "status": "available", "flight_number": "CC423"}
+{"origin": "Hong Kong", "destination": "Berlin", "date": "2025-06-26", "price": 948, "status": "available", "flight_number": "DD544"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-30", "price": 1040, "status": "available", "flight_number": "CC116"}
+{"origin": "Paris", "destination": "Shanghai", "date": "2025-06-29", "price": 123, "status": "available", "flight_number": "BB881"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-28", "price": 162, "status": "available", "flight_number": "CC159"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-26", "price": 1425, "status": "available", "flight_number": "BB621"}
+{"origin": "Toronto", "destination": "London", "date": "2025-06-30", "price": 694, "status": "available", "flight_number": "CC185"}
+{"origin": "Shanghai", "destination": "Sydney", "date": "2025-06-28", "price": 982, "status": "available", "flight_number": "DD351"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-29", "price": 1396, "status": "available", "flight_number": "AA176"}
+{"origin": "Toronto", "destination": "New York", "date": "2025-06-28", "price": 350, "status": "available", "flight_number": "DD718"}
+{"origin": "Tokyo", "destination": "Shanghai", "date": "2025-06-29", "price": 1195, "status": "available", "flight_number": "EE555"}
+{"origin": "Shanghai", "destination": "London", "date": "2025-06-30", "price": 1231, "status": "available", "flight_number": "DD152"}
+{"origin": "Sydney", "destination": "Hong Kong", "date": "2025-06-28", "price": 747, "status": "available", "flight_number": "DD160"}
+{"origin": "Tokyo", "destination": "Shanghai", "date": "2025-06-29", "price": 281, "status": "available", "flight_number": "BB246"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-30", "price": 119, "status": "available", "flight_number": "DD856"}
+{"origin": "Los Angeles", "destination": "Tokyo", "date": "2025-06-30", "price": 286, "status": "available", "flight_number": "CC294"}
+{"origin": "Los Angeles", "destination": "Singapore", "date": "2025-06-27", "price": 408, "status": "available", "flight_number": "BB264"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-30", "price": 1287, "status": "available", "flight_number": "DD970"}
+{"origin": "Los Angeles", "destination": "Dubai", "date": "2025-06-30", "price": 617, "status": "available", "flight_number": "AA249"}
+{"origin": "Hong Kong", "destination": "Toronto", "date": "2025-06-28", "price": 757, "status": "available", "flight_number": "DD788"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-27", "price": 372, "status": "available", "flight_number": "DD199"}
+{"origin": "Singapore", "destination": "Sydney", "date": "2025-06-29", "price": 1337, "status": "available", "flight_number": "DD626"}
+{"origin": "Paris", "destination": "Berlin", "date": "2025-06-30", "price": 988, "status": "available", "flight_number": "DD909"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-27", "price": 531, "status": "available", "flight_number": "AA628"}
+{"origin": "Paris", "destination": "Berlin", "date": "2025-06-30", "price": 113, "status": "available", "flight_number": "BB289"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-29", "price": 298, "status": "available", "flight_number": "BB993"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-26", "price": 960, "status": "available", "flight_number": "AA558"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-26", "price": 123, "status": "available", "flight_number": "CC288"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-27", "price": 467, "status": "available", "flight_number": "EE560"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-26", "price": 753, "status": "available", "flight_number": "CC639"}
+{"origin": "Shanghai", "destination": "London", "date": "2025-06-28", "price": 1350, "status": "available", "flight_number": "AA638"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-29", "price": 412, "status": "available", "flight_number": "CC258"}
+{"origin": "London", "destination": "Tokyo", "date": "2025-06-29", "price": 396, "status": "available", "flight_number": "CC967"}
+{"origin": "Singapore", "destination": "New York", "date": "2025-06-27", "price": 843, "status": "available", "flight_number": "BB151"}
+{"origin": "Paris", "destination": "Sydney", "date": "2025-06-30", "price": 1479, "status": "available", "flight_number": "DD975"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-28", "price": 481, "status": "available", "flight_number": "EE784"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-30", "price": 534, "status": "available", "flight_number": "BB477"}
+{"origin": "Shanghai", "destination": "Paris", "date": "2025-06-26", "price": 182, "status": "available", "flight_number": "DD890"}
+{"origin": "Hong Kong", "destination": "New York", "date": "2025-06-27", "price": 320, "status": "available", "flight_number": "DD716"}
+{"origin": "Singapore", "destination": "Hong Kong", "date": "2025-06-27", "price": 1243, "status": "available", "flight_number": "EE818"}
+{"origin": "Sydney", "destination": "Shanghai", "date": "2025-06-28", "price": 395, "status": "available", "flight_number": "EE370"}
+{"origin": "Hong Kong", "destination": "Berlin", "date": "2025-06-26", "price": 805, "status": "available", "flight_number": "EE842"}
+{"origin": "Shanghai", "destination": "Paris", "date": "2025-06-29", "price": 371, "status": "available", "flight_number": "BB858"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-26", "price": 1211, "status": "available", "flight_number": "EE579"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-28", "price": 964, "status": "available", "flight_number": "DD169"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-29", "price": 834, "status": "available", "flight_number": "AA137"}
+{"origin": "Tokyo", "destination": "Shanghai", "date": "2025-06-27", "price": 228, "status": "available", "flight_number": "DD146"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-29", "price": 221, "status": "available", "flight_number": "CC925"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-30", "price": 1040, "status": "available", "flight_number": "BB635"}
+{"origin": "London", "destination": "Sydney", "date": "2025-06-26", "price": 1114, "status": "available", "flight_number": "DD429"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-29", "price": 1312, "status": "available", "flight_number": "CC109"}
+{"origin": "New York", "destination": "London", "date": "2025-06-30", "price": 1476, "status": "available", "flight_number": "EE904"}
+{"origin": "London", "destination": "Los Angeles", "date": "2025-06-26", "price": 568, "status": "available", "flight_number": "BB136"}
+{"origin": "Paris", "destination": "Sydney", "date": "2025-06-30", "price": 1075, "status": "available", "flight_number": "BB204"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-27", "price": 391, "status": "available", "flight_number": "BB917"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-27", "price": 510, "status": "available", "flight_number": "BB317"}
+{"origin": "Hong Kong", "destination": "Dubai", "date": "2025-06-26", "price": 946, "status": "available", "flight_number": "CC873"}
+{"origin": "London", "destination": "Paris", "date": "2025-06-27", "price": 1316, "status": "available", "flight_number": "AA652"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-30", "price": 1179, "status": "available", "flight_number": "CC536"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-26", "price": 947, "status": "available", "flight_number": "AA561"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-30", "price": 909, "status": "available", "flight_number": "BB593"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-26", "price": 473, "status": "available", "flight_number": "AA820"}
+{"origin": "Hong Kong", "destination": "Los Angeles", "date": "2025-06-30", "price": 1301, "status": "available", "flight_number": "DD485"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-29", "price": 734, "status": "available", "flight_number": "AA260"}
+{"origin": "Los Angeles", "destination": "Paris", "date": "2025-06-29", "price": 1048, "status": "available", "flight_number": "CC993"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-28", "price": 214, "status": "available", "flight_number": "DD841"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-27", "price": 410, "status": "available", "flight_number": "EE816"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-28", "price": 1122, "status": "available", "flight_number": "EE968"}
+{"origin": "Los Angeles", "destination": "Dubai", "date": "2025-06-27", "price": 976, "status": "available", "flight_number": "BB673"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-29", "price": 1399, "status": "available", "flight_number": "BB343"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-26", "price": 776, "status": "available", "flight_number": "DD656"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-26", "price": 990, "status": "available", "flight_number": "DD665"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-28", "price": 679, "status": "available", "flight_number": "CC487"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-30", "price": 1088, "status": "available", "flight_number": "CC702"}
+{"origin": "Paris", "destination": "Tokyo", "date": "2025-06-26", "price": 446, "status": "available", "flight_number": "CC398"}
+{"origin": "Singapore", "destination": "Paris", "date": "2025-06-30", "price": 299, "status": "available", "flight_number": "CC904"}
+{"origin": "London", "destination": "Los Angeles", "date": "2025-06-26", "price": 1121, "status": "available", "flight_number": "AA605"}
+{"origin": "Paris", "destination": "Sydney", "date": "2025-06-29", "price": 446, "status": "available", "flight_number": "AA869"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-28", "price": 1441, "status": "available", "flight_number": "BB948"}
+{"origin": "Shanghai", "destination": "Paris", "date": "2025-06-26", "price": 1023, "status": "available", "flight_number": "CC591"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-26", "price": 572, "status": "available", "flight_number": "BB213"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-29", "price": 253, "status": "available", "flight_number": "BB824"}
+{"origin": "Singapore", "destination": "New York", "date": "2025-06-30", "price": 234, "status": "available", "flight_number": "EE436"}
+{"origin": "Shanghai", "destination": "New York", "date": "2025-06-26", "price": 433, "status": "available", "flight_number": "EE440"}
+{"origin": "Los Angeles", "destination": "Hong Kong", "date": "2025-06-27", "price": 1095, "status": "available", "flight_number": "DD645"}
+{"origin": "Los Angeles", "destination": "Sydney", "date": "2025-06-28", "price": 128, "status": "available", "flight_number": "AA516"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-28", "price": 249, "status": "available", "flight_number": "EE783"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-27", "price": 1305, "status": "available", "flight_number": "BB523"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-30", "price": 937, "status": "available", "flight_number": "DD209"}
+{"origin": "New York", "destination": "Los Angeles", "date": "2025-06-29", "price": 573, "status": "available", "flight_number": "DD430"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-30", "price": 1309, "status": "available", "flight_number": "AA314"}
+{"origin": "London", "destination": "Toronto", "date": "2025-06-26", "price": 1066, "status": "available", "flight_number": "DD823"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-30", "price": 1161, "status": "available", "flight_number": "EE116"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-26", "price": 677, "status": "available", "flight_number": "BB158"}
+{"origin": "Sydney", "destination": "Tokyo", "date": "2025-06-27", "price": 668, "status": "available", "flight_number": "BB123"}
+{"origin": "Singapore", "destination": "London", "date": "2025-06-26", "price": 851, "status": "available", "flight_number": "AA454"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-28", "price": 898, "status": "available", "flight_number": "BB631"}
+{"origin": "Berlin", "destination": "Los Angeles", "date": "2025-06-26", "price": 953, "status": "available", "flight_number": "DD274"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-27", "price": 1025, "status": "available", "flight_number": "BB445"}
+{"origin": "Sydney", "destination": "Berlin", "date": "2025-06-26", "price": 394, "status": "available", "flight_number": "EE443"}
+{"origin": "New York", "destination": "Shanghai", "date": "2025-06-27", "price": 1451, "status": "available", "flight_number": "DD753"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-29", "price": 1171, "status": "available", "flight_number": "DD452"}
+{"origin": "Sydney", "destination": "Paris", "date": "2025-06-27", "price": 757, "status": "available", "flight_number": "EE288"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-30", "price": 1072, "status": "available", "flight_number": "CC929"}
+{"origin": "Paris", "destination": "London", "date": "2025-06-26", "price": 1378, "status": "available", "flight_number": "BB394"}
+{"origin": "Shanghai", "destination": "New York", "date": "2025-06-26", "price": 485, "status": "available", "flight_number": "EE330"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-30", "price": 290, "status": "available", "flight_number": "DD669"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-28", "price": 614, "status": "available", "flight_number": "EE745"}
+{"origin": "Berlin", "destination": "Hong Kong", "date": "2025-06-28", "price": 696, "status": "available", "flight_number": "EE102"}
+{"origin": "Hong Kong", "destination": "Paris", "date": "2025-06-27", "price": 1127, "status": "available", "flight_number": "CC185"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-29", "price": 649, "status": "available", "flight_number": "EE982"}
+{"origin": "Dubai", "destination": "Shanghai", "date": "2025-06-27", "price": 1123, "status": "available", "flight_number": "BB954"}
+{"origin": "Berlin", "destination": "Tokyo", "date": "2025-06-29", "price": 108, "status": "available", "flight_number": "AA552"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-26", "price": 376, "status": "available", "flight_number": "BB124"}
+{"origin": "Tokyo", "destination": "New York", "date": "2025-06-29", "price": 520, "status": "available", "flight_number": "AA693"}
+{"origin": "New York", "destination": "Los Angeles", "date": "2025-06-27", "price": 830, "status": "available", "flight_number": "AA829"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-27", "price": 768, "status": "available", "flight_number": "BB877"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-29", "price": 1178, "status": "available", "flight_number": "DD580"}
+{"origin": "London", "destination": "Shanghai", "date": "2025-06-29", "price": 836, "status": "available", "flight_number": "BB370"}
+{"origin": "Shanghai", "destination": "Tokyo", "date": "2025-06-27", "price": 354, "status": "available", "flight_number": "AA359"}
+{"origin": "Hong Kong", "destination": "Paris", "date": "2025-06-28", "price": 1273, "status": "available", "flight_number": "DD839"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-28", "price": 921, "status": "available", "flight_number": "CC699"}
+{"origin": "New York", "destination": "London", "date": "2025-06-29", "price": 1100, "status": "available", "flight_number": "CC362"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-30", "price": 262, "status": "available", "flight_number": "EE182"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-27", "price": 470, "status": "available", "flight_number": "BB744"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-27", "price": 1204, "status": "available", "flight_number": "CC275"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-29", "price": 473, "status": "available", "flight_number": "EE911"}
+{"origin": "Hong Kong", "destination": "Tokyo", "date": "2025-06-28", "price": 1427, "status": "available", "flight_number": "AA668"}
+{"origin": "Toronto", "destination": "Paris", "date": "2025-06-27", "price": 1104, "status": "available", "flight_number": "BB598"}
+{"origin": "London", "destination": "Tokyo", "date": "2025-06-28", "price": 1135, "status": "available", "flight_number": "BB758"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-29", "price": 942, "status": "available", "flight_number": "DD361"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-27", "price": 134, "status": "available", "flight_number": "BB144"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-29", "price": 490, "status": "available", "flight_number": "CC665"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-26", "price": 708, "status": "available", "flight_number": "AA873"}
+{"origin": "Toronto", "destination": "Hong Kong", "date": "2025-06-29", "price": 190, "status": "available", "flight_number": "CC518"}
+{"origin": "Sydney", "destination": "Toronto", "date": "2025-06-29", "price": 537, "status": "available", "flight_number": "EE223"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-26", "price": 357, "status": "available", "flight_number": "AA473"}
+{"origin": "Paris", "destination": "Hong Kong", "date": "2025-06-27", "price": 662, "status": "available", "flight_number": "BB761"}
+{"origin": "Shanghai", "destination": "Sydney", "date": "2025-06-28", "price": 610, "status": "available", "flight_number": "CC479"}
+{"origin": "Sydney", "destination": "Singapore", "date": "2025-06-30", "price": 1244, "status": "available", "flight_number": "CC694"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-29", "price": 1292, "status": "available", "flight_number": "CC971"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-26", "price": 1064, "status": "available", "flight_number": "BB275"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-28", "price": 588, "status": "available", "flight_number": "BB566"}
+{"origin": "Singapore", "destination": "Sydney", "date": "2025-06-27", "price": 1155, "status": "available", "flight_number": "AA654"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-29", "price": 560, "status": "available", "flight_number": "DD407"}
+{"origin": "Los Angeles", "destination": "Hong Kong", "date": "2025-06-27", "price": 1035, "status": "available", "flight_number": "AA321"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-30", "price": 724, "status": "available", "flight_number": "AA567"}
+{"origin": "London", "destination": "Shanghai", "date": "2025-06-29", "price": 416, "status": "available", "flight_number": "DD944"}
+{"origin": "Toronto", "destination": "London", "date": "2025-06-26", "price": 855, "status": "available", "flight_number": "AA478"}
+{"origin": "New York", "destination": "Singapore", "date": "2025-06-27", "price": 546, "status": "available", "flight_number": "EE192"}
+{"origin": "Hong Kong", "destination": "Dubai", "date": "2025-06-28", "price": 804, "status": "available", "flight_number": "EE561"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-28", "price": 927, "status": "available", "flight_number": "EE483"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-29", "price": 759, "status": "available", "flight_number": "AA101"}
+{"origin": "Los Angeles", "destination": "Tokyo", "date": "2025-06-30", "price": 163, "status": "available", "flight_number": "DD971"}
+{"origin": "New York", "destination": "London", "date": "2025-06-28", "price": 219, "status": "available", "flight_number": "DD132"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-26", "price": 1301, "status": "available", "flight_number": "CC345"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-27", "price": 934, "status": "available", "flight_number": "BB939"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-27", "price": 986, "status": "available", "flight_number": "AA511"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-27", "price": 927, "status": "available", "flight_number": "CC359"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-26", "price": 574, "status": "available", "flight_number": "CC858"}
+{"origin": "Sydney", "destination": "Singapore", "date": "2025-06-29", "price": 821, "status": "available", "flight_number": "BB895"}
+{"origin": "Hong Kong", "destination": "London", "date": "2025-06-27", "price": 1275, "status": "available", "flight_number": "AA342"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-27", "price": 555, "status": "available", "flight_number": "BB369"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-29", "price": 352, "status": "available", "flight_number": "AA360"}
+{"origin": "Singapore", "destination": "Hong Kong", "date": "2025-06-27", "price": 1313, "status": "available", "flight_number": "AA249"}
+{"origin": "Hong Kong", "destination": "Los Angeles", "date": "2025-06-27", "price": 1283, "status": "available", "flight_number": "DD986"}
+{"origin": "Shanghai", "destination": "London", "date": "2025-06-28", "price": 347, "status": "available", "flight_number": "AA470"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-28", "price": 370, "status": "available", "flight_number": "EE668"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-28", "price": 538, "status": "available", "flight_number": "DD660"}
+{"origin": "Sydney", "destination": "Shanghai", "date": "2025-06-26", "price": 1065, "status": "available", "flight_number": "DD812"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-30", "price": 1232, "status": "available", "flight_number": "AA713"}
+{"origin": "Shanghai", "destination": "Hong Kong", "date": "2025-06-28", "price": 374, "status": "available", "flight_number": "EE641"}
+{"origin": "Berlin", "destination": "Hong Kong", "date": "2025-06-27", "price": 826, "status": "available", "flight_number": "BB788"}
+{"origin": "Tokyo", "destination": "Los Angeles", "date": "2025-06-28", "price": 149, "status": "available", "flight_number": "CC182"}
+{"origin": "Paris", "destination": "Hong Kong", "date": "2025-06-28", "price": 1163, "status": "available", "flight_number": "EE245"}
+{"origin": "Dubai", "destination": "Los Angeles", "date": "2025-06-28", "price": 1147, "status": "available", "flight_number": "EE742"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-28", "price": 1296, "status": "available", "flight_number": "CC434"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-26", "price": 1391, "status": "available", "flight_number": "EE356"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-29", "price": 1458, "status": "available", "flight_number": "CC137"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-30", "price": 597, "status": "available", "flight_number": "DD740"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-28", "price": 1298, "status": "available", "flight_number": "EE426"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-29", "price": 995, "status": "available", "flight_number": "BB895"}
+{"origin": "Sydney", "destination": "Berlin", "date": "2025-06-30", "price": 1362, "status": "available", "flight_number": "DD310"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-30", "price": 123, "status": "available", "flight_number": "CC355"}
+{"origin": "Shanghai", "destination": "Singapore", "date": "2025-06-27", "price": 1182, "status": "available", "flight_number": "AA380"}
+{"origin": "Singapore", "destination": "New York", "date": "2025-06-28", "price": 502, "status": "available", "flight_number": "AA106"}
+{"origin": "Singapore", "destination": "Toronto", "date": "2025-06-30", "price": 158, "status": "available", "flight_number": "DD507"}
+{"origin": "Singapore", "destination": "New York", "date": "2025-06-30", "price": 1305, "status": "available", "flight_number": "DD268"}
+{"origin": "Hong Kong", "destination": "New York", "date": "2025-06-28", "price": 323, "status": "available", "flight_number": "AA368"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-30", "price": 854, "status": "available", "flight_number": "AA570"}
+{"origin": "Sydney", "destination": "Hong Kong", "date": "2025-06-29", "price": 799, "status": "available", "flight_number": "BB323"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-30", "price": 610, "status": "available", "flight_number": "EE486"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-30", "price": 148, "status": "available", "flight_number": "CC609"}
+{"origin": "New York", "destination": "Tokyo", "date": "2025-06-30", "price": 323, "status": "available", "flight_number": "DD991"}
+{"origin": "Hong Kong", "destination": "Los Angeles", "date": "2025-06-28", "price": 386, "status": "available", "flight_number": "DD248"}
+{"origin": "Singapore", "destination": "Tokyo", "date": "2025-06-26", "price": 434, "status": "available", "flight_number": "DD188"}
+{"origin": "Los Angeles", "destination": "Toronto", "date": "2025-06-28", "price": 132, "status": "available", "flight_number": "EE989"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-29", "price": 571, "status": "available", "flight_number": "AA502"}
+{"origin": "Sydney", "destination": "New York", "date": "2025-06-27", "price": 276, "status": "available", "flight_number": "CC830"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-29", "price": 293, "status": "available", "flight_number": "AA497"}
+{"origin": "Toronto", "destination": "Tokyo", "date": "2025-06-28", "price": 357, "status": "available", "flight_number": "BB962"}
+{"origin": "Shanghai", "destination": "Singapore", "date": "2025-06-29", "price": 1184, "status": "available", "flight_number": "EE126"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-28", "price": 439, "status": "available", "flight_number": "EE342"}
+{"origin": "Shanghai", "destination": "Toronto", "date": "2025-06-27", "price": 850, "status": "available", "flight_number": "AA339"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-30", "price": 1056, "status": "available", "flight_number": "DD614"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-30", "price": 359, "status": "available", "flight_number": "BB524"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-29", "price": 696, "status": "available", "flight_number": "DD362"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-30", "price": 821, "status": "available", "flight_number": "DD488"}
+{"origin": "Berlin", "destination": "Shanghai", "date": "2025-06-26", "price": 834, "status": "available", "flight_number": "DD464"}
+{"origin": "Shanghai", "destination": "Paris", "date": "2025-06-28", "price": 1087, "status": "available", "flight_number": "EE254"}
+{"origin": "Sydney", "destination": "Los Angeles", "date": "2025-06-27", "price": 357, "status": "available", "flight_number": "AA210"}
+{"origin": "Los Angeles", "destination": "Paris", "date": "2025-06-30", "price": 494, "status": "available", "flight_number": "DD690"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-27", "price": 1232, "status": "available", "flight_number": "BB497"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-28", "price": 838, "status": "available", "flight_number": "CC825"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-29", "price": 268, "status": "available", "flight_number": "BB366"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-28", "price": 322, "status": "available", "flight_number": "BB367"}
+{"origin": "London", "destination": "New York", "date": "2025-06-26", "price": 1128, "status": "available", "flight_number": "BB905"}
+{"origin": "London", "destination": "Toronto", "date": "2025-06-30", "price": 791, "status": "available", "flight_number": "AA293"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-29", "price": 805, "status": "available", "flight_number": "DD449"}
+{"origin": "Hong Kong", "destination": "Dubai", "date": "2025-06-28", "price": 1093, "status": "available", "flight_number": "AA981"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-26", "price": 929, "status": "available", "flight_number": "BB657"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-30", "price": 965, "status": "available", "flight_number": "AA364"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-26", "price": 1161, "status": "available", "flight_number": "CC940"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-27", "price": 215, "status": "available", "flight_number": "BB624"}
+{"origin": "Singapore", "destination": "Hong Kong", "date": "2025-06-30", "price": 309, "status": "available", "flight_number": "BB594"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-27", "price": 755, "status": "available", "flight_number": "DD753"}
+{"origin": "New York", "destination": "Los Angeles", "date": "2025-06-29", "price": 1327, "status": "available", "flight_number": "BB932"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-27", "price": 1219, "status": "available", "flight_number": "DD214"}
+{"origin": "Paris", "destination": "London", "date": "2025-06-29", "price": 115, "status": "available", "flight_number": "BB964"}
+{"origin": "Sydney", "destination": "Hong Kong", "date": "2025-06-26", "price": 284, "status": "available", "flight_number": "EE152"}
+{"origin": "Singapore", "destination": "Tokyo", "date": "2025-06-26", "price": 1327, "status": "available", "flight_number": "BB221"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-29", "price": 1113, "status": "available", "flight_number": "BB418"}
+{"origin": "Dubai", "destination": "Los Angeles", "date": "2025-06-27", "price": 343, "status": "available", "flight_number": "DD746"}
+{"origin": "Singapore", "destination": "Toronto", "date": "2025-06-27", "price": 350, "status": "available", "flight_number": "EE201"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-26", "price": 486, "status": "available", "flight_number": "CC892"}
+{"origin": "Berlin", "destination": "Tokyo", "date": "2025-06-27", "price": 593, "status": "available", "flight_number": "CC781"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-27", "price": 975, "status": "available", "flight_number": "BB255"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-30", "price": 189, "status": "available", "flight_number": "BB948"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-26", "price": 1015, "status": "available", "flight_number": "DD639"}
+{"origin": "Los Angeles", "destination": "Dubai", "date": "2025-06-27", "price": 107, "status": "available", "flight_number": "CC222"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-27", "price": 633, "status": "available", "flight_number": "CC226"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-29", "price": 1352, "status": "available", "flight_number": "CC436"}
+{"origin": "New York", "destination": "Shanghai", "date": "2025-06-30", "price": 889, "status": "available", "flight_number": "EE630"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-27", "price": 570, "status": "available", "flight_number": "CC368"}
+{"origin": "Singapore", "destination": "Berlin", "date": "2025-06-29", "price": 1404, "status": "available", "flight_number": "CC432"}
+{"origin": "London", "destination": "Sydney", "date": "2025-06-30", "price": 1273, "status": "available", "flight_number": "CC258"}
+{"origin": "Paris", "destination": "Shanghai", "date": "2025-06-28", "price": 1276, "status": "available", "flight_number": "DD114"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-26", "price": 225, "status": "available", "flight_number": "DD652"}
+{"origin": "London", "destination": "New York", "date": "2025-06-27", "price": 1122, "status": "available", "flight_number": "CC999"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-30", "price": 1303, "status": "available", "flight_number": "AA941"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-29", "price": 424, "status": "available", "flight_number": "EE838"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-30", "price": 855, "status": "available", "flight_number": "AA633"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-29", "price": 1302, "status": "available", "flight_number": "BB627"}
+{"origin": "New York", "destination": "London", "date": "2025-06-30", "price": 613, "status": "available", "flight_number": "AA953"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-30", "price": 155, "status": "available", "flight_number": "BB462"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-29", "price": 526, "status": "available", "flight_number": "DD696"}
+{"origin": "Sydney", "destination": "Paris", "date": "2025-06-30", "price": 463, "status": "available", "flight_number": "DD161"}
+{"origin": "Toronto", "destination": "Dubai", "date": "2025-06-28", "price": 1123, "status": "available", "flight_number": "BB740"}
+{"origin": "Paris", "destination": "Tokyo", "date": "2025-06-26", "price": 789, "status": "available", "flight_number": "AA908"}
+{"origin": "Los Angeles", "destination": "Hong Kong", "date": "2025-06-26", "price": 498, "status": "available", "flight_number": "CC450"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-28", "price": 956, "status": "available", "flight_number": "CC982"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-29", "price": 600, "status": "available", "flight_number": "EE801"}
+{"origin": "Singapore", "destination": "Hong Kong", "date": "2025-06-27", "price": 762, "status": "available", "flight_number": "EE806"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-28", "price": 818, "status": "available", "flight_number": "AA243"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-28", "price": 921, "status": "available", "flight_number": "DD535"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-30", "price": 562, "status": "available", "flight_number": "CC643"}
+{"origin": "Dubai", "destination": "New York", "date": "2025-06-29", "price": 582, "status": "available", "flight_number": "CC323"}
+{"origin": "Hong Kong", "destination": "Los Angeles", "date": "2025-06-27", "price": 727, "status": "available", "flight_number": "BB761"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-29", "price": 1359, "status": "available", "flight_number": "AA954"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-28", "price": 443, "status": "available", "flight_number": "AA164"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-30", "price": 137, "status": "available", "flight_number": "CC659"}
+{"origin": "New York", "destination": "London", "date": "2025-06-27", "price": 1136, "status": "available", "flight_number": "DD930"}
+{"origin": "Toronto", "destination": "Tokyo", "date": "2025-06-29", "price": 319, "status": "available", "flight_number": "DD861"}
+{"origin": "Shanghai", "destination": "Paris", "date": "2025-06-28", "price": 838, "status": "available", "flight_number": "BB966"}
+{"origin": "Tokyo", "destination": "Los Angeles", "date": "2025-06-30", "price": 567, "status": "available", "flight_number": "DD917"}
+{"origin": "Toronto", "destination": "London", "date": "2025-06-27", "price": 226, "status": "available", "flight_number": "AA815"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-28", "price": 190, "status": "available", "flight_number": "EE916"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-27", "price": 1113, "status": "available", "flight_number": "DD410"}
+{"origin": "London", "destination": "Paris", "date": "2025-06-26", "price": 422, "status": "available", "flight_number": "EE695"}
+{"origin": "Berlin", "destination": "Tokyo", "date": "2025-06-28", "price": 633, "status": "available", "flight_number": "BB503"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-26", "price": 977, "status": "available", "flight_number": "EE622"}
+{"origin": "New York", "destination": "Tokyo", "date": "2025-06-26", "price": 1043, "status": "available", "flight_number": "EE841"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-26", "price": 913, "status": "available", "flight_number": "EE354"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-27", "price": 981, "status": "available", "flight_number": "EE793"}
+{"origin": "Hong Kong", "destination": "Los Angeles", "date": "2025-06-29", "price": 1366, "status": "available", "flight_number": "BB648"}
+{"origin": "Hong Kong", "destination": "Sydney", "date": "2025-06-27", "price": 644, "status": "available", "flight_number": "EE434"}
+{"origin": "Paris", "destination": "Hong Kong", "date": "2025-06-27", "price": 1226, "status": "available", "flight_number": "CC908"}
+{"origin": "Tokyo", "destination": "New York", "date": "2025-06-29", "price": 1119, "status": "available", "flight_number": "CC254"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-26", "price": 638, "status": "available", "flight_number": "EE167"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-26", "price": 504, "status": "available", "flight_number": "CC872"}
+{"origin": "Singapore", "destination": "Sydney", "date": "2025-06-26", "price": 1320, "status": "available", "flight_number": "EE800"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-26", "price": 1472, "status": "available", "flight_number": "BB695"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-26", "price": 1126, "status": "available", "flight_number": "BB754"}
+{"origin": "Dubai", "destination": "Los Angeles", "date": "2025-06-29", "price": 398, "status": "available", "flight_number": "EE548"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-30", "price": 517, "status": "available", "flight_number": "EE891"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-30", "price": 952, "status": "available", "flight_number": "BB436"}
+{"origin": "Toronto", "destination": "Hong Kong", "date": "2025-06-29", "price": 1239, "status": "available", "flight_number": "DD100"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-30", "price": 528, "status": "available", "flight_number": "DD753"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-30", "price": 1055, "status": "available", "flight_number": "EE904"}
+{"origin": "London", "destination": "Los Angeles", "date": "2025-06-26", "price": 1075, "status": "available", "flight_number": "DD618"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-28", "price": 591, "status": "available", "flight_number": "AA897"}
+{"origin": "Hong Kong", "destination": "Toronto", "date": "2025-06-27", "price": 391, "status": "available", "flight_number": "DD968"}
+{"origin": "Sydney", "destination": "London", "date": "2025-06-28", "price": 581, "status": "available", "flight_number": "EE669"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-27", "price": 897, "status": "available", "flight_number": "BB596"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-29", "price": 130, "status": "available", "flight_number": "EE489"}
+{"origin": "Los Angeles", "destination": "Singapore", "date": "2025-06-28", "price": 1286, "status": "available", "flight_number": "DD149"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-27", "price": 747, "status": "available", "flight_number": "DD168"}
+{"origin": "Hong Kong", "destination": "Tokyo", "date": "2025-06-30", "price": 256, "status": "available", "flight_number": "EE472"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-26", "price": 1342, "status": "available", "flight_number": "AA190"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-29", "price": 741, "status": "available", "flight_number": "AA757"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-30", "price": 185, "status": "available", "flight_number": "DD201"}
+{"origin": "Sydney", "destination": "Singapore", "date": "2025-06-28", "price": 101, "status": "available", "flight_number": "AA884"}
+{"origin": "Los Angeles", "destination": "Singapore", "date": "2025-06-29", "price": 1290, "status": "available", "flight_number": "BB962"}
+{"origin": "Sydney", "destination": "Toronto", "date": "2025-06-30", "price": 1262, "status": "available", "flight_number": "AA981"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-30", "price": 510, "status": "available", "flight_number": "BB408"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-28", "price": 592, "status": "available", "flight_number": "AA414"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-30", "price": 853, "status": "available", "flight_number": "CC347"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-28", "price": 1483, "status": "available", "flight_number": "AA760"}
+{"origin": "Singapore", "destination": "Toronto", "date": "2025-06-27", "price": 1489, "status": "available", "flight_number": "AA180"}
+{"origin": "Singapore", "destination": "Los Angeles", "date": "2025-06-30", "price": 498, "status": "available", "flight_number": "DD772"}
+{"origin": "New York", "destination": "London", "date": "2025-06-29", "price": 1170, "status": "available", "flight_number": "EE971"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-26", "price": 1186, "status": "available", "flight_number": "DD252"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-30", "price": 275, "status": "available", "flight_number": "DD618"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-26", "price": 327, "status": "available", "flight_number": "AA576"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-29", "price": 425, "status": "available", "flight_number": "AA697"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-26", "price": 1068, "status": "available", "flight_number": "DD257"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-30", "price": 840, "status": "available", "flight_number": "BB260"}
+{"origin": "Shanghai", "destination": "New York", "date": "2025-06-29", "price": 618, "status": "available", "flight_number": "BB252"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-26", "price": 694, "status": "available", "flight_number": "AA207"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-29", "price": 1147, "status": "available", "flight_number": "EE865"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-28", "price": 850, "status": "available", "flight_number": "EE424"}
+{"origin": "London", "destination": "Los Angeles", "date": "2025-06-28", "price": 605, "status": "available", "flight_number": "DD133"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-27", "price": 1235, "status": "available", "flight_number": "EE796"}
+{"origin": "New York", "destination": "Tokyo", "date": "2025-06-28", "price": 139, "status": "available", "flight_number": "DD684"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-30", "price": 717, "status": "available", "flight_number": "EE113"}
+{"origin": "Los Angeles", "destination": "New York", "date": "2025-06-30", "price": 1195, "status": "available", "flight_number": "DD611"}
+{"origin": "Los Angeles", "destination": "New York", "date": "2025-06-26", "price": 1307, "status": "available", "flight_number": "EE208"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-27", "price": 551, "status": "available", "flight_number": "CC878"}
+{"origin": "Paris", "destination": "Hong Kong", "date": "2025-06-27", "price": 1305, "status": "available", "flight_number": "DD902"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-27", "price": 696, "status": "available", "flight_number": "BB313"}
+{"origin": "Paris", "destination": "Hong Kong", "date": "2025-06-27", "price": 1238, "status": "available", "flight_number": "BB798"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-26", "price": 1125, "status": "available", "flight_number": "CC552"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-29", "price": 1473, "status": "available", "flight_number": "DD210"}
+{"origin": "Sydney", "destination": "Toronto", "date": "2025-06-29", "price": 762, "status": "available", "flight_number": "EE612"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-27", "price": 438, "status": "available", "flight_number": "BB904"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-27", "price": 883, "status": "available", "flight_number": "BB293"}
+{"origin": "Tokyo", "destination": "Los Angeles", "date": "2025-06-28", "price": 773, "status": "available", "flight_number": "EE315"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-27", "price": 661, "status": "available", "flight_number": "BB293"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-29", "price": 368, "status": "available", "flight_number": "CC945"}
+{"origin": "New York", "destination": "Singapore", "date": "2025-06-29", "price": 931, "status": "available", "flight_number": "AA136"}
+{"origin": "Shanghai", "destination": "Toronto", "date": "2025-06-28", "price": 316, "status": "available", "flight_number": "AA464"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-29", "price": 688, "status": "available", "flight_number": "EE424"}
+{"origin": "London", "destination": "Toronto", "date": "2025-06-28", "price": 868, "status": "available", "flight_number": "BB383"}
+{"origin": "Singapore", "destination": "Tokyo", "date": "2025-06-26", "price": 1121, "status": "available", "flight_number": "CC957"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-28", "price": 841, "status": "available", "flight_number": "DD757"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-27", "price": 915, "status": "available", "flight_number": "AA917"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-27", "price": 601, "status": "available", "flight_number": "CC471"}
+{"origin": "Berlin", "destination": "Singapore", "date": "2025-06-26", "price": 157, "status": "available", "flight_number": "EE348"}
+{"origin": "New York", "destination": "London", "date": "2025-06-29", "price": 767, "status": "available", "flight_number": "BB894"}
+{"origin": "Berlin", "destination": "Paris", "date": "2025-06-26", "price": 1073, "status": "available", "flight_number": "EE465"}
+{"origin": "London", "destination": "Dubai", "date": "2025-06-29", "price": 587, "status": "available", "flight_number": "BB226"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-30", "price": 498, "status": "available", "flight_number": "DD201"}
+{"origin": "Paris", "destination": "Dubai", "date": "2025-06-28", "price": 1114, "status": "available", "flight_number": "AA533"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-28", "price": 1094, "status": "available", "flight_number": "EE864"}
+{"origin": "Paris", "destination": "Berlin", "date": "2025-06-29", "price": 146, "status": "available", "flight_number": "BB850"}
+{"origin": "New York", "destination": "Shanghai", "date": "2025-06-28", "price": 400, "status": "available", "flight_number": "BB902"}
+{"origin": "Shanghai", "destination": "London", "date": "2025-06-28", "price": 468, "status": "available", "flight_number": "EE453"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-29", "price": 1296, "status": "available", "flight_number": "CC753"}
+{"origin": "Los Angeles", "destination": "Toronto", "date": "2025-06-30", "price": 360, "status": "available", "flight_number": "DD493"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-27", "price": 467, "status": "available", "flight_number": "CC254"}
+{"origin": "Sydney", "destination": "Hong Kong", "date": "2025-06-30", "price": 473, "status": "available", "flight_number": "EE212"}
+{"origin": "Paris", "destination": "Shanghai", "date": "2025-06-29", "price": 344, "status": "available", "flight_number": "EE805"}
+{"origin": "New York", "destination": "Tokyo", "date": "2025-06-27", "price": 790, "status": "available", "flight_number": "DD479"}
+{"origin": "London", "destination": "Sydney", "date": "2025-06-30", "price": 1033, "status": "available", "flight_number": "DD475"}
+{"origin": "Toronto", "destination": "Dubai", "date": "2025-06-26", "price": 797, "status": "available", "flight_number": "AA485"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-27", "price": 857, "status": "available", "flight_number": "CC638"}
+{"origin": "Toronto", "destination": "Tokyo", "date": "2025-06-26", "price": 923, "status": "available", "flight_number": "CC988"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-30", "price": 505, "status": "available", "flight_number": "EE817"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-26", "price": 536, "status": "available", "flight_number": "DD870"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-28", "price": 960, "status": "available", "flight_number": "CC447"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-30", "price": 195, "status": "available", "flight_number": "CC683"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-28", "price": 155, "status": "available", "flight_number": "AA869"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-26", "price": 1334, "status": "available", "flight_number": "EE603"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-28", "price": 958, "status": "available", "flight_number": "EE452"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-30", "price": 372, "status": "available", "flight_number": "DD901"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-26", "price": 793, "status": "available", "flight_number": "AA453"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-30", "price": 1267, "status": "available", "flight_number": "BB176"}
+{"origin": "London", "destination": "Tokyo", "date": "2025-06-26", "price": 539, "status": "available", "flight_number": "AA428"}
+{"origin": "Dubai", "destination": "Shanghai", "date": "2025-06-28", "price": 1049, "status": "available", "flight_number": "CC901"}
+{"origin": "Paris", "destination": "Dubai", "date": "2025-06-30", "price": 1432, "status": "available", "flight_number": "CC775"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-28", "price": 1413, "status": "available", "flight_number": "CC716"}
+{"origin": "Berlin", "destination": "Tokyo", "date": "2025-06-27", "price": 1020, "status": "available", "flight_number": "AA519"}
+{"origin": "Sydney", "destination": "Tokyo", "date": "2025-06-29", "price": 299, "status": "available", "flight_number": "DD953"}
+{"origin": "Shanghai", "destination": "Tokyo", "date": "2025-06-29", "price": 674, "status": "available", "flight_number": "EE834"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-30", "price": 1215, "status": "available", "flight_number": "AA446"}
+{"origin": "New York", "destination": "Los Angeles", "date": "2025-06-26", "price": 1312, "status": "available", "flight_number": "DD773"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-29", "price": 1047, "status": "available", "flight_number": "CC785"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-26", "price": 242, "status": "available", "flight_number": "DD885"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-27", "price": 318, "status": "available", "flight_number": "CC676"}
+{"origin": "London", "destination": "Shanghai", "date": "2025-06-30", "price": 183, "status": "available", "flight_number": "EE344"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-26", "price": 449, "status": "available", "flight_number": "DD733"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-29", "price": 577, "status": "available", "flight_number": "CC574"}
+{"origin": "Los Angeles", "destination": "Paris", "date": "2025-06-29", "price": 1070, "status": "available", "flight_number": "BB744"}
+{"origin": "Los Angeles", "destination": "Berlin", "date": "2025-06-28", "price": 1460, "status": "available", "flight_number": "EE126"}
+{"origin": "Singapore", "destination": "Berlin", "date": "2025-06-29", "price": 270, "status": "available", "flight_number": "EE754"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-28", "price": 717, "status": "available", "flight_number": "BB421"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-30", "price": 1075, "status": "available", "flight_number": "BB624"}
+{"origin": "London", "destination": "Tokyo", "date": "2025-06-29", "price": 1090, "status": "available", "flight_number": "DD778"}
+{"origin": "New York", "destination": "London", "date": "2025-06-30", "price": 833, "status": "available", "flight_number": "DD596"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-26", "price": 819, "status": "available", "flight_number": "BB657"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-26", "price": 1489, "status": "available", "flight_number": "CC188"}
+{"origin": "London", "destination": "Los Angeles", "date": "2025-06-26", "price": 1429, "status": "available", "flight_number": "CC337"}
+{"origin": "Sydney", "destination": "Singapore", "date": "2025-06-30", "price": 1106, "status": "available", "flight_number": "DD537"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-29", "price": 1283, "status": "available", "flight_number": "EE381"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-28", "price": 1159, "status": "available", "flight_number": "BB113"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-26", "price": 102, "status": "available", "flight_number": "CC593"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-30", "price": 1037, "status": "available", "flight_number": "BB902"}
+{"origin": "Hong Kong", "destination": "Tokyo", "date": "2025-06-26", "price": 982, "status": "available", "flight_number": "EE379"}
+{"origin": "New York", "destination": "Singapore", "date": "2025-06-29", "price": 1405, "status": "available", "flight_number": "BB175"}
+{"origin": "Hong Kong", "destination": "London", "date": "2025-06-27", "price": 1052, "status": "available", "flight_number": "CC286"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-28", "price": 677, "status": "available", "flight_number": "BB363"}
+{"origin": "Toronto", "destination": "Hong Kong", "date": "2025-06-30", "price": 1140, "status": "available", "flight_number": "EE842"}
+{"origin": "Los Angeles", "destination": "New York", "date": "2025-06-27", "price": 498, "status": "available", "flight_number": "DD188"}
+{"origin": "Toronto", "destination": "New York", "date": "2025-06-26", "price": 492, "status": "available", "flight_number": "EE928"}
+{"origin": "Shanghai", "destination": "Toronto", "date": "2025-06-29", "price": 187, "status": "available", "flight_number": "EE535"}
+{"origin": "London", "destination": "Toronto", "date": "2025-06-30", "price": 420, "status": "available", "flight_number": "DD342"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-30", "price": 1271, "status": "available", "flight_number": "AA612"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-28", "price": 665, "status": "available", "flight_number": "AA197"}
+{"origin": "Shanghai", "destination": "London", "date": "2025-06-27", "price": 1073, "status": "available", "flight_number": "EE775"}
+{"origin": "Shanghai", "destination": "Paris", "date": "2025-06-30", "price": 115, "status": "available", "flight_number": "EE266"}
+{"origin": "Los Angeles", "destination": "Dubai", "date": "2025-06-27", "price": 980, "status": "available", "flight_number": "AA335"}
+{"origin": "Tokyo", "destination": "New York", "date": "2025-06-29", "price": 1015, "status": "available", "flight_number": "BB275"}
+{"origin": "Shanghai", "destination": "Toronto", "date": "2025-06-28", "price": 1370, "status": "available", "flight_number": "BB651"}
+{"origin": "Los Angeles", "destination": "Shanghai", "date": "2025-06-27", "price": 800, "status": "available", "flight_number": "AA551"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-26", "price": 715, "status": "available", "flight_number": "BB323"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-30", "price": 1370, "status": "available", "flight_number": "BB587"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-26", "price": 1324, "status": "available", "flight_number": "EE590"}
+{"origin": "Paris", "destination": "Shanghai", "date": "2025-06-27", "price": 1126, "status": "available", "flight_number": "AA931"}
+{"origin": "New York", "destination": "London", "date": "2025-06-29", "price": 1336, "status": "available", "flight_number": "DD981"}
+{"origin": "Singapore", "destination": "Berlin", "date": "2025-06-27", "price": 457, "status": "available", "flight_number": "DD423"}
+{"origin": "Los Angeles", "destination": "Dubai", "date": "2025-06-29", "price": 1313, "status": "available", "flight_number": "BB496"}
+{"origin": "Los Angeles", "destination": "New York", "date": "2025-06-27", "price": 1090, "status": "available", "flight_number": "EE167"}
+{"origin": "Hong Kong", "destination": "Berlin", "date": "2025-06-29", "price": 1245, "status": "available", "flight_number": "AA385"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-30", "price": 1361, "status": "available", "flight_number": "DD590"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-29", "price": 834, "status": "available", "flight_number": "CC889"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-26", "price": 938, "status": "available", "flight_number": "EE905"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-29", "price": 1305, "status": "available", "flight_number": "DD669"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-27", "price": 680, "status": "available", "flight_number": "DD430"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-28", "price": 604, "status": "available", "flight_number": "CC225"}
+{"origin": "Paris", "destination": "Dubai", "date": "2025-06-30", "price": 1400, "status": "available", "flight_number": "DD184"}
+{"origin": "Berlin", "destination": "Paris", "date": "2025-06-28", "price": 588, "status": "available", "flight_number": "BB716"}
+{"origin": "Paris", "destination": "London", "date": "2025-06-30", "price": 1025, "status": "available", "flight_number": "AA747"}
+{"origin": "Berlin", "destination": "Los Angeles", "date": "2025-06-26", "price": 1469, "status": "available", "flight_number": "EE783"}
+{"origin": "London", "destination": "New York", "date": "2025-06-30", "price": 971, "status": "available", "flight_number": "CC767"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-29", "price": 1315, "status": "available", "flight_number": "EE190"}
+{"origin": "Hong Kong", "destination": "Dubai", "date": "2025-06-27", "price": 323, "status": "available", "flight_number": "CC853"}
+{"origin": "New York", "destination": "Los Angeles", "date": "2025-06-27", "price": 217, "status": "available", "flight_number": "DD507"}
+{"origin": "Hong Kong", "destination": "Dubai", "date": "2025-06-28", "price": 203, "status": "available", "flight_number": "AA852"}
+{"origin": "Hong Kong", "destination": "Toronto", "date": "2025-06-28", "price": 1449, "status": "available", "flight_number": "EE154"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-28", "price": 1434, "status": "available", "flight_number": "AA347"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-30", "price": 150, "status": "available", "flight_number": "BB554"}
+{"origin": "Toronto", "destination": "Tokyo", "date": "2025-06-27", "price": 133, "status": "available", "flight_number": "BB741"}
+{"origin": "Hong Kong", "destination": "Paris", "date": "2025-06-26", "price": 1403, "status": "available", "flight_number": "DD141"}
+{"origin": "Hong Kong", "destination": "Los Angeles", "date": "2025-06-27", "price": 183, "status": "available", "flight_number": "CC673"}
+{"origin": "Sydney", "destination": "London", "date": "2025-06-28", "price": 850, "status": "available", "flight_number": "EE679"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-28", "price": 984, "status": "available", "flight_number": "DD555"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-27", "price": 1180, "status": "available", "flight_number": "DD798"}
+{"origin": "Toronto", "destination": "Dubai", "date": "2025-06-30", "price": 1316, "status": "available", "flight_number": "DD956"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-28", "price": 585, "status": "available", "flight_number": "AA316"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-28", "price": 996, "status": "available", "flight_number": "DD555"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-29", "price": 449, "status": "available", "flight_number": "EE190"}
+{"origin": "Singapore", "destination": "Tokyo", "date": "2025-06-29", "price": 103, "status": "available", "flight_number": "EE810"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-28", "price": 271, "status": "available", "flight_number": "BB432"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-30", "price": 1203, "status": "available", "flight_number": "BB815"}
+{"origin": "Paris", "destination": "Hong Kong", "date": "2025-06-29", "price": 1149, "status": "available", "flight_number": "AA376"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-27", "price": 590, "status": "available", "flight_number": "DD363"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-30", "price": 724, "status": "available", "flight_number": "EE934"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-30", "price": 693, "status": "available", "flight_number": "EE663"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-26", "price": 1249, "status": "available", "flight_number": "AA912"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-27", "price": 776, "status": "available", "flight_number": "BB614"}
+{"origin": "Tokyo", "destination": "Shanghai", "date": "2025-06-26", "price": 832, "status": "available", "flight_number": "CC520"}
+{"origin": "Berlin", "destination": "Paris", "date": "2025-06-29", "price": 996, "status": "available", "flight_number": "DD952"}
+{"origin": "Shanghai", "destination": "New York", "date": "2025-06-30", "price": 1058, "status": "available", "flight_number": "DD993"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-27", "price": 1242, "status": "available", "flight_number": "DD961"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-30", "price": 582, "status": "available", "flight_number": "BB814"}
+{"origin": "Sydney", "destination": "Tokyo", "date": "2025-06-26", "price": 1214, "status": "available", "flight_number": "BB132"}
+{"origin": "New York", "destination": "Shanghai", "date": "2025-06-29", "price": 1138, "status": "available", "flight_number": "BB967"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-26", "price": 1012, "status": "available", "flight_number": "DD761"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-27", "price": 567, "status": "available", "flight_number": "CC757"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-30", "price": 1476, "status": "available", "flight_number": "BB704"}
+{"origin": "Singapore", "destination": "Shanghai", "date": "2025-06-28", "price": 517, "status": "available", "flight_number": "BB134"}
+{"origin": "Dubai", "destination": "Los Angeles", "date": "2025-06-26", "price": 857, "status": "available", "flight_number": "AA170"}
+{"origin": "Los Angeles", "destination": "Paris", "date": "2025-06-28", "price": 1343, "status": "available", "flight_number": "EE919"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-26", "price": 1147, "status": "available", "flight_number": "AA358"}
+{"origin": "Shanghai", "destination": "Toronto", "date": "2025-06-27", "price": 729, "status": "available", "flight_number": "DD644"}
+{"origin": "New York", "destination": "London", "date": "2025-06-29", "price": 1083, "status": "available", "flight_number": "AA308"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-27", "price": 1472, "status": "available", "flight_number": "BB724"}
+{"origin": "Toronto", "destination": "Paris", "date": "2025-06-29", "price": 1499, "status": "available", "flight_number": "BB283"}
+{"origin": "Hong Kong", "destination": "Dubai", "date": "2025-06-27", "price": 130, "status": "available", "flight_number": "DD788"}
+{"origin": "New York", "destination": "London", "date": "2025-06-30", "price": 1437, "status": "available", "flight_number": "AA178"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-29", "price": 400, "status": "available", "flight_number": "EE557"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-28", "price": 1034, "status": "available", "flight_number": "CC729"}
+{"origin": "New York", "destination": "Los Angeles", "date": "2025-06-28", "price": 502, "status": "available", "flight_number": "DD953"}
+{"origin": "Dubai", "destination": "Sydney", "date": "2025-06-27", "price": 446, "status": "available", "flight_number": "CC510"}
+{"origin": "Sydney", "destination": "Tokyo", "date": "2025-06-27", "price": 1034, "status": "available", "flight_number": "BB259"}
+{"origin": "Singapore", "destination": "Toronto", "date": "2025-06-26", "price": 276, "status": "available", "flight_number": "EE955"}
+{"origin": "Toronto", "destination": "New York", "date": "2025-06-29", "price": 1428, "status": "available", "flight_number": "DD390"}
+{"origin": "New York", "destination": "Tokyo", "date": "2025-06-26", "price": 1451, "status": "available", "flight_number": "CC457"}
+{"origin": "Shanghai", "destination": "Sydney", "date": "2025-06-29", "price": 1352, "status": "available", "flight_number": "EE351"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-29", "price": 1132, "status": "available", "flight_number": "EE331"}
+{"origin": "Sydney", "destination": "New York", "date": "2025-06-26", "price": 1462, "status": "available", "flight_number": "AA526"}
+{"origin": "Berlin", "destination": "Singapore", "date": "2025-06-28", "price": 898, "status": "available", "flight_number": "BB768"}
+{"origin": "Berlin", "destination": "Shanghai", "date": "2025-06-26", "price": 917, "status": "available", "flight_number": "DD434"}
+{"origin": "Paris", "destination": "Dubai", "date": "2025-06-30", "price": 1075, "status": "available", "flight_number": "EE878"}
+{"origin": "Los Angeles", "destination": "Sydney", "date": "2025-06-29", "price": 1032, "status": "available", "flight_number": "AA475"}
+{"origin": "Shanghai", "destination": "Singapore", "date": "2025-06-26", "price": 1293, "status": "available", "flight_number": "DD184"}
+{"origin": "Sydney", "destination": "London", "date": "2025-06-28", "price": 680, "status": "available", "flight_number": "CC739"}
+{"origin": "Toronto", "destination": "Dubai", "date": "2025-06-26", "price": 939, "status": "available", "flight_number": "CC728"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-29", "price": 1269, "status": "available", "flight_number": "AA120"}
+{"origin": "Sydney", "destination": "Tokyo", "date": "2025-06-27", "price": 998, "status": "available", "flight_number": "DD634"}
+{"origin": "London", "destination": "Los Angeles", "date": "2025-06-27", "price": 950, "status": "available", "flight_number": "CC622"}
+{"origin": "Berlin", "destination": "Shanghai", "date": "2025-06-28", "price": 1007, "status": "available", "flight_number": "EE528"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-29", "price": 561, "status": "available", "flight_number": "CC240"}
+{"origin": "Hong Kong", "destination": "Dubai", "date": "2025-06-28", "price": 589, "status": "available", "flight_number": "DD342"}
+{"origin": "Paris", "destination": "Berlin", "date": "2025-06-26", "price": 700, "status": "available", "flight_number": "BB696"}
+{"origin": "Hong Kong", "destination": "Sydney", "date": "2025-06-27", "price": 339, "status": "available", "flight_number": "EE465"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-30", "price": 423, "status": "available", "flight_number": "DD156"}
+{"origin": "London", "destination": "Toronto", "date": "2025-06-28", "price": 874, "status": "available", "flight_number": "DD719"}
+{"origin": "Singapore", "destination": "New York", "date": "2025-06-28", "price": 480, "status": "available", "flight_number": "CC258"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-27", "price": 1418, "status": "available", "flight_number": "BB571"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-30", "price": 802, "status": "available", "flight_number": "DD162"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-28", "price": 1029, "status": "available", "flight_number": "AA207"}
+{"origin": "Toronto", "destination": "Hong Kong", "date": "2025-06-30", "price": 353, "status": "available", "flight_number": "EE418"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-28", "price": 1275, "status": "available", "flight_number": "EE374"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-30", "price": 931, "status": "available", "flight_number": "EE229"}
+{"origin": "Dubai", "destination": "Shanghai", "date": "2025-06-27", "price": 193, "status": "available", "flight_number": "EE644"}
+{"origin": "Singapore", "destination": "New York", "date": "2025-06-29", "price": 324, "status": "available", "flight_number": "AA135"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-29", "price": 583, "status": "available", "flight_number": "AA434"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-28", "price": 792, "status": "available", "flight_number": "EE546"}
+{"origin": "Paris", "destination": "Singapore", "date": "2025-06-28", "price": 216, "status": "available", "flight_number": "EE701"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-29", "price": 1486, "status": "available", "flight_number": "BB715"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-30", "price": 1498, "status": "available", "flight_number": "AA861"}
+{"origin": "Berlin", "destination": "New York", "date": "2025-06-26", "price": 897, "status": "available", "flight_number": "DD785"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-30", "price": 1471, "status": "available", "flight_number": "DD436"}
+{"origin": "Berlin", "destination": "Los Angeles", "date": "2025-06-26", "price": 1405, "status": "available", "flight_number": "AA569"}
+{"origin": "Los Angeles", "destination": "Tokyo", "date": "2025-06-30", "price": 1119, "status": "available", "flight_number": "AA526"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-27", "price": 630, "status": "available", "flight_number": "AA597"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-28", "price": 1037, "status": "available", "flight_number": "BB438"}
+{"origin": "Berlin", "destination": "Los Angeles", "date": "2025-06-28", "price": 268, "status": "available", "flight_number": "BB768"}
+{"origin": "Shanghai", "destination": "Tokyo", "date": "2025-06-29", "price": 666, "status": "available", "flight_number": "BB695"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-30", "price": 375, "status": "available", "flight_number": "BB744"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-29", "price": 1088, "status": "available", "flight_number": "AA323"}
+{"origin": "Shanghai", "destination": "Sydney", "date": "2025-06-26", "price": 546, "status": "available", "flight_number": "DD448"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-26", "price": 1168, "status": "available", "flight_number": "DD811"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-26", "price": 1043, "status": "available", "flight_number": "BB956"}
+{"origin": "Paris", "destination": "Berlin", "date": "2025-06-27", "price": 214, "status": "available", "flight_number": "CC543"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-29", "price": 1072, "status": "available", "flight_number": "EE714"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-28", "price": 273, "status": "available", "flight_number": "AA589"}
+{"origin": "Los Angeles", "destination": "New York", "date": "2025-06-27", "price": 876, "status": "available", "flight_number": "AA288"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-26", "price": 837, "status": "available", "flight_number": "DD927"}
+{"origin": "Singapore", "destination": "Hong Kong", "date": "2025-06-30", "price": 227, "status": "available", "flight_number": "BB537"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-28", "price": 1485, "status": "available", "flight_number": "DD268"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-26", "price": 319, "status": "available", "flight_number": "BB267"}
+{"origin": "Toronto", "destination": "Shanghai", "date": "2025-06-30", "price": 1381, "status": "available", "flight_number": "BB403"}
+{"origin": "Tokyo", "destination": "Los Angeles", "date": "2025-06-29", "price": 822, "status": "available", "flight_number": "AA520"}
+{"origin": "Berlin", "destination": "Los Angeles", "date": "2025-06-26", "price": 1186, "status": "available", "flight_number": "DD483"}
+{"origin": "London", "destination": "New York", "date": "2025-06-30", "price": 704, "status": "available", "flight_number": "BB999"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-29", "price": 1283, "status": "available", "flight_number": "AA632"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-30", "price": 1010, "status": "available", "flight_number": "EE293"}
+{"origin": "Los Angeles", "destination": "Tokyo", "date": "2025-06-28", "price": 161, "status": "available", "flight_number": "CC824"}
+{"origin": "London", "destination": "Singapore", "date": "2025-06-28", "price": 1008, "status": "available", "flight_number": "BB988"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-30", "price": 294, "status": "available", "flight_number": "DD389"}
+{"origin": "Paris", "destination": "Los Angeles", "date": "2025-06-29", "price": 1330, "status": "available", "flight_number": "AA277"}
+{"origin": "Los Angeles", "destination": "Shanghai", "date": "2025-06-28", "price": 1197, "status": "available", "flight_number": "AA713"}
+{"origin": "Dubai", "destination": "Singapore", "date": "2025-06-27", "price": 215, "status": "available", "flight_number": "BB274"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-28", "price": 685, "status": "available", "flight_number": "AA467"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-29", "price": 1451, "status": "available", "flight_number": "DD936"}
+{"origin": "Shanghai", "destination": "Hong Kong", "date": "2025-06-27", "price": 1285, "status": "available", "flight_number": "CC479"}
+{"origin": "Toronto", "destination": "New York", "date": "2025-06-30", "price": 1230, "status": "available", "flight_number": "BB694"}
+{"origin": "Sydney", "destination": "Los Angeles", "date": "2025-06-29", "price": 230, "status": "available", "flight_number": "BB429"}
+{"origin": "Shanghai", "destination": "London", "date": "2025-06-29", "price": 710, "status": "available", "flight_number": "AA881"}
+{"origin": "Toronto", "destination": "London", "date": "2025-06-26", "price": 1083, "status": "available", "flight_number": "BB307"}
+{"origin": "London", "destination": "Sydney", "date": "2025-06-28", "price": 117, "status": "available", "flight_number": "BB649"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-28", "price": 510, "status": "available", "flight_number": "AA464"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-26", "price": 617, "status": "available", "flight_number": "AA873"}
+{"origin": "London", "destination": "Tokyo", "date": "2025-06-26", "price": 184, "status": "available", "flight_number": "CC123"}
+{"origin": "Tokyo", "destination": "Los Angeles", "date": "2025-06-28", "price": 483, "status": "available", "flight_number": "DD652"}
+{"origin": "London", "destination": "Tokyo", "date": "2025-06-30", "price": 812, "status": "available", "flight_number": "AA206"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-26", "price": 804, "status": "available", "flight_number": "BB495"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-27", "price": 206, "status": "available", "flight_number": "AA834"}
+{"origin": "Los Angeles", "destination": "Tokyo", "date": "2025-06-27", "price": 235, "status": "available", "flight_number": "DD288"}
+{"origin": "Singapore", "destination": "Sydney", "date": "2025-06-30", "price": 175, "status": "available", "flight_number": "BB711"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-30", "price": 1438, "status": "available", "flight_number": "EE902"}
+{"origin": "Hong Kong", "destination": "Sydney", "date": "2025-06-30", "price": 258, "status": "available", "flight_number": "AA221"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-29", "price": 652, "status": "available", "flight_number": "DD587"}
+{"origin": "New York", "destination": "Shanghai", "date": "2025-06-29", "price": 582, "status": "available", "flight_number": "BB642"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-30", "price": 658, "status": "available", "flight_number": "EE101"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-27", "price": 1195, "status": "available", "flight_number": "BB835"}
+{"origin": "Paris", "destination": "Dubai", "date": "2025-06-30", "price": 419, "status": "available", "flight_number": "BB905"}
+{"origin": "Toronto", "destination": "Paris", "date": "2025-06-26", "price": 1042, "status": "available", "flight_number": "CC299"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-27", "price": 888, "status": "available", "flight_number": "CC419"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-28", "price": 1138, "status": "available", "flight_number": "DD177"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-30", "price": 588, "status": "available", "flight_number": "AA800"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-28", "price": 1159, "status": "available", "flight_number": "DD943"}
+{"origin": "Singapore", "destination": "Tokyo", "date": "2025-06-27", "price": 1011, "status": "available", "flight_number": "DD635"}
+{"origin": "Berlin", "destination": "Hong Kong", "date": "2025-06-27", "price": 1062, "status": "available", "flight_number": "BB779"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-28", "price": 1323, "status": "available", "flight_number": "AA715"}
+{"origin": "Shanghai", "destination": "Tokyo", "date": "2025-06-29", "price": 1449, "status": "available", "flight_number": "CC723"}
+{"origin": "New York", "destination": "Tokyo", "date": "2025-06-29", "price": 368, "status": "available", "flight_number": "EE164"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-26", "price": 1238, "status": "available", "flight_number": "BB562"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-29", "price": 956, "status": "available", "flight_number": "AA476"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-30", "price": 945, "status": "available", "flight_number": "CC500"}
+{"origin": "Sydney", "destination": "Hong Kong", "date": "2025-06-27", "price": 1235, "status": "available", "flight_number": "BB504"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-27", "price": 835, "status": "available", "flight_number": "EE721"}
+{"origin": "Sydney", "destination": "Berlin", "date": "2025-06-28", "price": 741, "status": "available", "flight_number": "BB848"}
+{"origin": "Toronto", "destination": "Los Angeles", "date": "2025-06-30", "price": 466, "status": "available", "flight_number": "CC143"}
+{"origin": "Shanghai", "destination": "Hong Kong", "date": "2025-06-30", "price": 269, "status": "available", "flight_number": "DD202"}
+{"origin": "Shanghai", "destination": "Toronto", "date": "2025-06-28", "price": 731, "status": "available", "flight_number": "AA373"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-27", "price": 447, "status": "available", "flight_number": "DD607"}
+{"origin": "Hong Kong", "destination": "Los Angeles", "date": "2025-06-26", "price": 472, "status": "available", "flight_number": "AA416"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-27", "price": 340, "status": "available", "flight_number": "CC860"}
+{"origin": "Tokyo", "destination": "Singapore", "date": "2025-06-30", "price": 1115, "status": "available", "flight_number": "AA177"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-30", "price": 992, "status": "available", "flight_number": "BB427"}
+{"origin": "Tokyo", "destination": "New York", "date": "2025-06-26", "price": 354, "status": "available", "flight_number": "DD102"}
+{"origin": "Berlin", "destination": "Paris", "date": "2025-06-29", "price": 1207, "status": "available", "flight_number": "AA155"}
+{"origin": "Paris", "destination": "Shanghai", "date": "2025-06-26", "price": 1136, "status": "available", "flight_number": "AA306"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-27", "price": 517, "status": "available", "flight_number": "AA121"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-30", "price": 1118, "status": "available", "flight_number": "EE829"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-26", "price": 817, "status": "available", "flight_number": "EE473"}
+{"origin": "Sydney", "destination": "Paris", "date": "2025-06-29", "price": 901, "status": "available", "flight_number": "CC194"}
+{"origin": "Singapore", "destination": "London", "date": "2025-06-27", "price": 1110, "status": "available", "flight_number": "BB743"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-27", "price": 1086, "status": "available", "flight_number": "BB661"}
+{"origin": "Toronto", "destination": "Berlin", "date": "2025-06-29", "price": 109, "status": "available", "flight_number": "DD917"}
+{"origin": "Paris", "destination": "Tokyo", "date": "2025-06-29", "price": 840, "status": "available", "flight_number": "EE723"}
+{"origin": "Hong Kong", "destination": "Toronto", "date": "2025-06-29", "price": 1049, "status": "available", "flight_number": "BB831"}
+{"origin": "Paris", "destination": "New York", "date": "2025-06-30", "price": 1432, "status": "available", "flight_number": "BB525"}
+{"origin": "Paris", "destination": "Tokyo", "date": "2025-06-27", "price": 1332, "status": "available", "flight_number": "EE355"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-30", "price": 674, "status": "available", "flight_number": "DD430"}
+{"origin": "Berlin", "destination": "London", "date": "2025-06-26", "price": 631, "status": "available", "flight_number": "EE155"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-29", "price": 542, "status": "available", "flight_number": "EE448"}
+{"origin": "Sydney", "destination": "Shanghai", "date": "2025-06-26", "price": 1452, "status": "available", "flight_number": "DD621"}
+{"origin": "Sydney", "destination": "Berlin", "date": "2025-06-30", "price": 1011, "status": "available", "flight_number": "EE488"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-28", "price": 733, "status": "available", "flight_number": "BB107"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-28", "price": 1346, "status": "available", "flight_number": "EE828"}
+{"origin": "Singapore", "destination": "Dubai", "date": "2025-06-30", "price": 1275, "status": "available", "flight_number": "CC347"}
+{"origin": "Shanghai", "destination": "Sydney", "date": "2025-06-29", "price": 741, "status": "available", "flight_number": "AA408"}
+{"origin": "Hong Kong", "destination": "Sydney", "date": "2025-06-30", "price": 1088, "status": "available", "flight_number": "DD161"}
+{"origin": "London", "destination": "Sydney", "date": "2025-06-26", "price": 217, "status": "available", "flight_number": "DD450"}
+{"origin": "New York", "destination": "Sydney", "date": "2025-06-26", "price": 1111, "status": "available", "flight_number": "BB307"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-30", "price": 673, "status": "available", "flight_number": "CC671"}
+{"origin": "Sydney", "destination": "Los Angeles", "date": "2025-06-29", "price": 1467, "status": "available", "flight_number": "CC926"}
+{"origin": "Paris", "destination": "Shanghai", "date": "2025-06-26", "price": 1231, "status": "available", "flight_number": "CC298"}
+{"origin": "Berlin", "destination": "Sydney", "date": "2025-06-26", "price": 804, "status": "available", "flight_number": "AA561"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-27", "price": 150, "status": "available", "flight_number": "CC971"}
+{"origin": "Dubai", "destination": "Tokyo", "date": "2025-06-28", "price": 531, "status": "available", "flight_number": "EE353"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-27", "price": 106, "status": "available", "flight_number": "BB395"}
+{"origin": "Los Angeles", "destination": "Toronto", "date": "2025-06-26", "price": 1015, "status": "available", "flight_number": "AA382"}
+{"origin": "Sydney", "destination": "Los Angeles", "date": "2025-06-26", "price": 233, "status": "available", "flight_number": "EE845"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-27", "price": 645, "status": "available", "flight_number": "BB877"}
+{"origin": "New York", "destination": "Berlin", "date": "2025-06-27", "price": 1300, "status": "available", "flight_number": "BB891"}
+{"origin": "Hong Kong", "destination": "New York", "date": "2025-06-28", "price": 1350, "status": "available", "flight_number": "AA423"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-30", "price": 1161, "status": "available", "flight_number": "CC852"}
+{"origin": "Sydney", "destination": "Toronto", "date": "2025-06-29", "price": 1220, "status": "available", "flight_number": "CC675"}
+{"origin": "Los Angeles", "destination": "Dubai", "date": "2025-06-28", "price": 923, "status": "available", "flight_number": "AA161"}
+{"origin": "Dubai", "destination": "Toronto", "date": "2025-06-27", "price": 111, "status": "available", "flight_number": "EE459"}
+{"origin": "Toronto", "destination": "London", "date": "2025-06-30", "price": 1417, "status": "available", "flight_number": "DD150"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-30", "price": 263, "status": "available", "flight_number": "DD873"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-28", "price": 181, "status": "available", "flight_number": "DD367"}
+{"origin": "Dubai", "destination": "Berlin", "date": "2025-06-28", "price": 1252, "status": "available", "flight_number": "EE540"}
+{"origin": "New York", "destination": "Toronto", "date": "2025-06-30", "price": 1311, "status": "available", "flight_number": "AA912"}
+{"origin": "Paris", "destination": "Toronto", "date": "2025-06-27", "price": 187, "status": "available", "flight_number": "EE281"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-28", "price": 152, "status": "available", "flight_number": "AA742"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-26", "price": 1446, "status": "available", "flight_number": "BB556"}
+{"origin": "Toronto", "destination": "New York", "date": "2025-06-29", "price": 217, "status": "available", "flight_number": "CC288"}
+{"origin": "Los Angeles", "destination": "Hong Kong", "date": "2025-06-28", "price": 970, "status": "available", "flight_number": "AA317"}
+{"origin": "Paris", "destination": "London", "date": "2025-06-30", "price": 971, "status": "available", "flight_number": "BB821"}
+{"origin": "Shanghai", "destination": "Berlin", "date": "2025-06-30", "price": 335, "status": "available", "flight_number": "BB627"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-29", "price": 195, "status": "available", "flight_number": "AA142"}
+{"origin": "Tokyo", "destination": "London", "date": "2025-06-26", "price": 1329, "status": "available", "flight_number": "AA126"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-30", "price": 373, "status": "available", "flight_number": "AA973"}
+{"origin": "Shanghai", "destination": "Los Angeles", "date": "2025-06-26", "price": 753, "status": "available", "flight_number": "DD283"}
+{"origin": "Hong Kong", "destination": "London", "date": "2025-06-28", "price": 1448, "status": "available", "flight_number": "AA789"}
+{"origin": "London", "destination": "Sydney", "date": "2025-06-29", "price": 1006, "status": "available", "flight_number": "DD840"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-27", "price": 639, "status": "available", "flight_number": "EE246"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-30", "price": 704, "status": "available", "flight_number": "BB290"}
+{"origin": "Berlin", "destination": "Los Angeles", "date": "2025-06-26", "price": 127, "status": "available", "flight_number": "AA762"}
+{"origin": "Paris", "destination": "New York", "date": "2025-06-30", "price": 759, "status": "available", "flight_number": "DD255"}
+{"origin": "London", "destination": "Paris", "date": "2025-06-27", "price": 386, "status": "available", "flight_number": "BB872"}
+{"origin": "London", "destination": "Sydney", "date": "2025-06-28", "price": 140, "status": "available", "flight_number": "EE175"}
+{"origin": "Los Angeles", "destination": "Toronto", "date": "2025-06-29", "price": 285, "status": "available", "flight_number": "BB400"}
+{"origin": "Paris", "destination": "Sydney", "date": "2025-06-29", "price": 1443, "status": "available", "flight_number": "CC575"}
+{"origin": "Los Angeles", "destination": "London", "date": "2025-06-30", "price": 507, "status": "available", "flight_number": "DD660"}
+{"origin": "Dubai", "destination": "Paris", "date": "2025-06-26", "price": 122, "status": "available", "flight_number": "DD784"}
+{"origin": "Berlin", "destination": "Tokyo", "date": "2025-06-30", "price": 1187, "status": "available", "flight_number": "BB258"}
+{"origin": "Hong Kong", "destination": "Berlin", "date": "2025-06-30", "price": 443, "status": "available", "flight_number": "AA217"}
+{"origin": "Berlin", "destination": "Paris", "date": "2025-06-30", "price": 338, "status": "available", "flight_number": "AA127"}
+{"origin": "Dubai", "destination": "London", "date": "2025-06-30", "price": 650, "status": "available", "flight_number": "EE339"}
+{"origin": "Berlin", "destination": "Toronto", "date": "2025-06-28", "price": 1403, "status": "available", "flight_number": "CC993"}
+{"origin": "London", "destination": "Hong Kong", "date": "2025-06-30", "price": 1340, "status": "available", "flight_number": "AA655"}
+{"origin": "Hong Kong", "destination": "Berlin", "date": "2025-06-28", "price": 1167, "status": "available", "flight_number": "AA171"}
+{"origin": "Singapore", "destination": "Paris", "date": "2025-06-29", "price": 571, "status": "available", "flight_number": "DD637"}
+{"origin": "Sydney", "destination": "Hong Kong", "date": "2025-06-26", "price": 367, "status": "available", "flight_number": "BB621"}
+{"origin": "Toronto", "destination": "Hong Kong", "date": "2025-06-27", "price": 379, "status": "available", "flight_number": "DD377"}
+{"origin": "New York", "destination": "Hong Kong", "date": "2025-06-26", "price": 1124, "status": "available", "flight_number": "BB702"}
+{"origin": "Tokyo", "destination": "Hong Kong", "date": "2025-06-26", "price": 1494, "status": "available", "flight_number": "AA197"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-26", "price": 313, "status": "available", "flight_number": "DD566"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-27", "price": 927, "status": "available", "flight_number": "AA340"}
+{"origin": "Sydney", "destination": "Shanghai", "date": "2025-06-26", "price": 943, "status": "available", "flight_number": "EE425"}
+{"origin": "Berlin", "destination": "Hong Kong", "date": "2025-06-29", "price": 336, "status": "available", "flight_number": "DD949"}
+{"origin": "New York", "destination": "Paris", "date": "2025-06-27", "price": 409, "status": "available", "flight_number": "CC238"}
+{"origin": "Tokyo", "destination": "Paris", "date": "2025-06-29", "price": 217, "status": "available", "flight_number": "CC151"}
+{"origin": "Hong Kong", "destination": "Singapore", "date": "2025-06-29", "price": 118, "status": "available", "flight_number": "EE451"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-30", "price": 487, "status": "available", "flight_number": "EE448"}
+{"origin": "Toronto", "destination": "Singapore", "date": "2025-06-26", "price": 934, "status": "available", "flight_number": "EE258"}
+{"origin": "Paris", "destination": "Hong Kong", "date": "2025-06-30", "price": 1244, "status": "available", "flight_number": "EE206"}
+{"origin": "Berlin", "destination": "Dubai", "date": "2025-06-29", "price": 586, "status": "available", "flight_number": "DD682"}
+{"origin": "Berlin", "destination": "Paris", "date": "2025-06-27", "price": 251, "status": "available", "flight_number": "CC241"}
+{"origin": "Hong Kong", "destination": "Toronto", "date": "2025-06-27", "price": 900, "status": "available", "flight_number": "BB775"}
+{"origin": "Los Angeles", "destination": "Dubai", "date": "2025-06-28", "price": 254, "status": "available", "flight_number": "AA652"}
+{"origin": "Tokyo", "destination": "Shanghai", "date": "2025-06-26", "price": 1439, "status": "available", "flight_number": "BB904"}
+{"origin": "Tokyo", "destination": "Toronto", "date": "2025-06-27", "price": 164, "status": "available", "flight_number": "CC385"}
+{"origin": "Tokyo", "destination": "New York", "date": "2025-06-29", "price": 485, "status": "available", "flight_number": "AA529"}
+{"origin": "Paris", "destination": "Sydney", "date": "2025-06-26", "price": 1315, "status": "available", "flight_number": "DD621"}
+{"origin": "Tokyo", "destination": "Dubai", "date": "2025-06-27", "price": 146, "status": "available", "flight_number": "BB185"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-29", "price": 490, "status": "available", "flight_number": "EE672"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-27", "price": 1399, "status": "available", "flight_number": "AA856"}
+{"origin": "Dubai", "destination": "Hong Kong", "date": "2025-06-26", "price": 1205, "status": "available", "flight_number": "CC208"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-27", "price": 1128, "status": "available", "flight_number": "EE564"}
+{"origin": "Sydney", "destination": "Los Angeles", "date": "2025-06-27", "price": 1482, "status": "available", "flight_number": "CC629"}
+{"origin": "Dubai", "destination": "Shanghai", "date": "2025-06-27", "price": 985, "status": "available", "flight_number": "AA437"}
+{"origin": "Toronto", "destination": "Dubai", "date": "2025-06-26", "price": 165, "status": "available", "flight_number": "BB627"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-26", "price": 286, "status": "available", "flight_number": "EE596"}
+{"origin": "Shanghai", "destination": "Sydney", "date": "2025-06-26", "price": 1471, "status": "available", "flight_number": "BB540"}
+{"origin": "Toronto", "destination": "Dubai", "date": "2025-06-29", "price": 1069, "status": "available", "flight_number": "BB147"}
+{"origin": "New York", "destination": "Tokyo", "date": "2025-06-28", "price": 1447, "status": "available", "flight_number": "DD278"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-27", "price": 284, "status": "available", "flight_number": "AA935"}
+{"origin": "Sydney", "destination": "Dubai", "date": "2025-06-27", "price": 1229, "status": "available", "flight_number": "BB639"}
+{"origin": "Los Angeles", "destination": "Paris", "date": "2025-06-26", "price": 946, "status": "available", "flight_number": "EE170"}
+{"origin": "Tokyo", "destination": "Sydney", "date": "2025-06-29", "price": 1452, "status": "available", "flight_number": "BB704"}
+{"origin": "Tokyo", "destination": "Berlin", "date": "2025-06-29", "price": 138, "status": "available", "flight_number": "BB734"}
+{"origin": "New York", "destination": "Dubai", "date": "2025-06-29", "price": 994, "status": "available", "flight_number": "CC372"}
+{"origin": "Shanghai", "destination": "Hong Kong", "date": "2025-06-26", "price": 1164, "status": "available", "flight_number": "EE168"}
+{"origin": "Hong Kong", "destination": "Shanghai", "date": "2025-06-28", "price": 1396, "status": "available", "flight_number": "AA825"}
+{"origin": "Toronto", "destination": "Sydney", "date": "2025-06-30", "price": 231, "status": "available", "flight_number": "CC277"}
+{"origin": "London", "destination": "Berlin", "date": "2025-06-28", "price": 669, "status": "available", "flight_number": "DD767"}
