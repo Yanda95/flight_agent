@@ -106,6 +106,23 @@ llm = ChatOpenAI(
 ```
 For security reasons, my_api_key is left empty in the code — you need to set your own key before running the agent.
 
+## Updates --version2
+### ✅ Key Functional Enhancements
+
+1. **LLM-Based Freeform Interaction**  
+   The agent now supports natural language conversation using a large language model (LLM), allowing users to interact freely—not limited to rigid flight request formats.
+
+2. **Incremental Intent Merging**  
+   Flight booking intent is dynamically constructed and updated over multiple turns. The system can merge partial inputs (e.g., destination in one turn, origin in another) into a complete query before proceeding.
+
+3. **Context-Aware Route Suggestions**  
+   The available flight data is parsed and partially injected into the LLM prompt. This allows the model to answer general questions (e.g., “Where can I fly this week?”) or make valid recommendations.  
+   ⚠️ *Note: To avoid overwhelming the LLM with too many options, full route listings are currently limited. A hybrid LLM + rule-based retrieval system is recommended for scaling.*
+
+4. **Memory Completeness Check Before Search**  
+   The agent validates that essential booking fields (origin, destination, and date) are present in the conversation memory before performing any flight search. This ensures accuracy and reduces invalid queries.
+
+
 ## 🚀 Screenshots
 
 ### Multi-turn Dialogue: Change flight plans based on user needs
@@ -115,5 +132,9 @@ For security reasons, my_api_key is left empty in the code — you need to set y
 ### Search within a date range
 
 <img src="date_range.jpg" width="600">
+
+### Flexible talk with agent
+
+<img src="flexible.jpg" width="600">
 
 
