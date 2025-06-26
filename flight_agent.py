@@ -3,12 +3,11 @@ import dateparser
 from datetime import datetime
 from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
-from pydantic import BaseModel, Field
+from typing import Optional, Dict, Any
 
-from langchain_core.output_parsers import PydanticOutputParser
 from langchain.schema import HumanMessage
+import json
 
-my_api_key = ""
 llm = ChatOpenAI(
     model_name="gpt-3.5-turbo",
     temperature=0,
@@ -17,67 +16,45 @@ llm = ChatOpenAI(
 
 # Load flight data
 df = pd.read_json('flights.jsonl', lines=True)
-
+df['date'] = pd.to_datetime(df['date'])
+df_unique = df.drop_duplicates(subset=['origin', 'destination'])
+all_routes = df_unique[['origin', 'destination']].drop_duplicates().reset_index(drop=True)
 
 # Memory
-conversation_memory = {}
+conversation_memory: Dict[str, Any] = {}
 pending_flight = None
 pending_confirmation = False
 
-# Main class
-class FlightIntent(BaseModel):
-    origin: str = Field(description="Departure city")
-    destination: str = Field(description="Arrival city")
-    date_start: str = Field(description="Start date in YYYY-MM-DD format, or 'unknown'")
-    date_end: str = Field(description="End date in YYYY-MM-DD format, or 'unknown'")
-
-intent_parser = PydanticOutputParser(pydantic_object=FlightIntent)
-
-# Default prompt
-intent_prompt_template = PromptTemplate(
-    input_variables=["user_input", "today", "memory"],
+# Simplified Prompt
+simple_prompt = PromptTemplate(
+    input_variables=["user_input", "today", "memory", "routes"],
     template="""
-You are an assistant that extracts flight search parameters from user input.
+Today is {today}.
+You are a helpful flight booking assistant.
 
-Today's date is: {today}
+Instructions:
+1. If the user specifies any booking information (like origin, destination, or date), use it to update the intent.
+2. Combine it with the memory to extract a complete intent (if possible) in JSON format like:
+   Intent: {{"origin": ..., "destination": ..., "date_start": ..., "date_end": ...}}
+3. If the input is general conversation, or if booking information is incomplete, reply in natural language starting with:
+   Reply: ...
 
-The previous search memory is:
+Use memory to preserve previous origin/destination/date values unless the user gives new ones.
+Do not fabricate information. Use only user input and memory.
+Override memory if user input includes valid values.
+Here are valid routes:
+{routes}
+
+Memory:
 {memory}
 
-User input is:
-"{user_input}"
-
-Please return the updated full flight search intent in JSON format matching this Pydantic model:
-
-{format_instructions}
-
-Rules:
-- If user input only mentions part of the fields, fill missing fields using memory.
-- If user input provides a date range (e.g. "next week"), map it to date_start and date_end.
-- If user input provides a single date, set both date_start and date_end to that date.
-- Use 'unknown' if you cannot determine the value.
+User: {user_input}
 """
 )
 
-# Extract intent from user input
-def extract_intent(user_input):
-    today = datetime.today().strftime("%Y-%m-%d")
-    memory_str = str(conversation_memory)
-
-    prompt = intent_prompt_template.format(
-        user_input=user_input,
-        today=today,
-        memory=memory_str,
-        format_instructions=intent_parser.get_format_instructions()
-    )
-
-    response = llm.invoke([HumanMessage(content=prompt)])
-    intent = intent_parser.parse(response.content)
-    return intent
-
 # Date Normalization
 def normalize_date(date_str):
-    if date_str == "unknown" or not date_str.strip():
+    if date_str in ["unknown", None, ""]:
         return "unknown"
     parsed_date = dateparser.parse(date_str)
     if parsed_date:
@@ -85,22 +62,41 @@ def normalize_date(date_str):
     else:
         return "unknown"
 
+# Parse LLM response
+def parse_response(output: str) -> Dict[str, Any]:
+    if output.strip().startswith("Intent:"):
+        try:
+            payload = output.strip()[len("Intent:"):].strip()
+            intent_dict = json.loads(payload)
+            return {"intent": intent_dict, "response": None}
+        except Exception:
+            return {"intent": None, "response": "Sorry, I couldn't understand your request. Could you rephrase it?"}
+    elif output.strip().startswith("Reply:"):
+        return {"intent": None, "response": output.strip()[len("Reply:"):].strip()}
+    else:
+        return {"intent": None, "response": output.strip()}
+
+# Check whether intent is fully specified
+def is_complete_intent(intent):
+    return all([
+        intent.get("origin"),
+        intent.get("destination"),
+        intent.get("date_start") not in [None, "unknown"]
+    ])
+
 # Search flights
 def search_flight(intent):
     global pending_flight, pending_confirmation
 
     filtered_df = df.copy()
 
-    if intent.origin:
-        filtered_df = filtered_df[filtered_df['origin'].str.lower() == intent.origin.lower()]
-    if intent.destination:
-        filtered_df = filtered_df[filtered_df['destination'].str.lower() == intent.destination.lower()]
+    if intent.get("origin"):
+        filtered_df = filtered_df[filtered_df['origin'].str.lower() == intent['origin'].lower()]
+    if intent.get("destination"):
+        filtered_df = filtered_df[filtered_df['destination'].str.lower() == intent['destination'].lower()]
 
-    if intent.date_start != "unknown" and intent.date_end != "unknown":
-        filtered_df = filtered_df[
-            (filtered_df['date'] >= intent.date_start) &
-            (filtered_df['date'] <= intent.date_end)
-        ]
+    if intent.get("date_start") and intent['date_start'] != "unknown":
+        filtered_df = filtered_df[filtered_df['date'] == intent['date_start']]
 
     if filtered_df.empty:
         print("No matching flights found.\n")
@@ -121,7 +117,7 @@ def search_flight(intent):
 
 # Main loop
 if __name__ == "__main__":
-    print("🇦🇪UAE Flight Booking Agent")
+    print("\U0001F1E6\U0001F1EAUAE Flight Booking Agent")
     print("Type your request. Type 'exit' to quit.\n")
 
     while True:
@@ -133,7 +129,7 @@ if __name__ == "__main__":
 
         if pending_confirmation:
             if user_input.lower() in ["yes", "y", "ok", "confirm", "sure"]:
-                print(f"\nBooking confirmed! 🎫")
+                print(f"\nBooking confirmed! \U0001F3AB")
                 print(f"Flight {pending_flight['flight_number']} from {pending_flight['origin']} to {pending_flight['destination']} on {pending_flight['date']} at price ${pending_flight['price']}\n")
                 print("Thank you for using the Flight Agent. Goodbye!\n")
                 break
@@ -144,21 +140,48 @@ if __name__ == "__main__":
             else:
                 print("\nPlease reply with yes / no / change.\n")
         else:
-            intent = extract_intent(user_input)
+            today = datetime.today().strftime("%Y-%m-%d")
+            memory_str = json.dumps(conversation_memory, indent=2)
+            route_preview = all_routes.to_string(index=False)
+            prompt = simple_prompt.format(
+                user_input=user_input,
+                today=today,
+                memory=memory_str,
+                routes=route_preview
+            )
+            raw_output = llm.invoke([HumanMessage(content=prompt)]).content
+            result = parse_response(raw_output)
 
-            intent.date_start = normalize_date(intent.date_start)
-            intent.date_end = normalize_date(intent.date_end)
+            if result["intent"]:
+                intent = result["intent"]
+                intent["date_start"] = normalize_date(intent.get("date_start"))
+                intent["date_end"] = normalize_date(intent.get("date_end"))
 
-            if intent.date_start != "unknown":
-                today_date = datetime.today().date()
-                parsed_start = datetime.strptime(intent.date_start, "%Y-%m-%d").date()
-                if parsed_start < today_date:
-                    print("The date you entered is in the past. Please enter a valid future date.\n")
-                    continue
+                if intent["date_start"] != "unknown":
+                    today_date = datetime.today().date()
+                    parsed_start = datetime.strptime(intent["date_start"], "%Y-%m-%d").date()
+                    if parsed_start < today_date:
+                        print("The date you entered is in the past. Please enter a valid future date.\n")
+                        continue
 
-            conversation_memory['origin'] = intent.origin
-            conversation_memory['destination'] = intent.destination
-            conversation_memory['date_start'] = intent.date_start
-            conversation_memory['date_end'] = intent.date_end
+                for k, v in intent.items():
+                    if v and v != "unknown":
+                        conversation_memory[k] = v
 
-            search_flight(intent)
+                if is_complete_intent(conversation_memory):
+                    search_flight(conversation_memory)
+                else:
+                    remaining = []
+                    if not conversation_memory.get("origin"):
+                        remaining.append("departure city")
+                    if not conversation_memory.get("destination"):
+                        remaining.append("destination")
+                    if conversation_memory.get("date_start") in [None, "unknown"]:
+                        remaining.append("travel date")
+
+                    if remaining:
+                        print(f"\nGot it! To proceed, please tell me your {', '.join(remaining)}.\n")
+                    else:
+                        print("\nThanks! Let me know if you'd like to search for a flight.\n")
+            else:
+                print("\n" + result["response"] + "\n")
